@@ -1,0 +1,3225 @@
+{
+  "items": [
+    {
+      "description": "For a complete listing of all available packages, see Django Packages",
+      "items": [],
+      "title": "Third-Party Packages"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "django-import-export",
+          "description": "Django application and library for importing and exporting data with admin integration.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T17:12:43Z",
+            "owner": "django-import-export",
+            "repo": "django-import-export",
+            "stars": 3332
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-hijack",
+          "description": "Admins can log in and work on behalf of other users without having to know their credentials.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-11T17:25:32Z",
+            "owner": "django-hijack",
+            "repo": "django-hijack",
+            "stars": 1739
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-admin-sortable2",
+          "description": "Generic drag-and-drop ordering for objects in the Django admin interface.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-06T13:04:06Z",
+            "owner": "jrief",
+            "repo": "django-admin-sortable2",
+            "stars": 885
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dj-control-room",
+          "description": "Build a control plane with a suite of operational tools inside the Django admin (Redis, cache, Celery, URLs, and more).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-11T19:37:34Z",
+            "owner": "django-control-room",
+            "repo": "dj-control-room",
+            "stars": 559
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-loginas",
+          "description": "\"Log in as user\" for the Django admin.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-06T17:15:58Z",
+            "owner": "skorokithakis",
+            "repo": "django-loginas",
+            "stars": 376
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-admin-env-notice",
+          "description": "Visually distinguish environments in Django Admin, for example: , , .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-22T18:23:13Z",
+            "owner": "dizballanze",
+            "repo": "django-admin-env-notice",
+            "stars": 344
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "impostor",
+          "description": "Impostor is a Django application which allows staff members to log in as a different user by using their own username and password.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T18:11:23Z",
+            "owner": "avallbona",
+            "repo": "Impostor",
+            "stars": 161
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-admin-collaborator",
+          "description": "Add real-time user presence, edit locks, and chat to Django admin with Channels and Redis.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-05-12T08:22:40Z",
+            "owner": "Brktrlw",
+            "repo": "django-admin-collaborator",
+            "stars": 104
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-related-admin",
+          "description": "A helper library that allows you to write list_displays across foreign key relationships.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-05-16T13:57:45Z",
+            "owner": "PetrDlouhy",
+            "repo": "django-related-admin",
+            "stars": 72
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-admin-inline-paginator-plus",
+          "description": "A simple way to paginate your inline in Django admin",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-16T10:00:01Z",
+            "owner": "DmytroLitvinov",
+            "repo": "django-admin-inline-paginator-plus",
+            "stars": 68
+          }
+        }
+      ],
+      "title": "Admin"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "django-grappelli",
+          "description": "A jazzy skin for the admin.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-08-10T08:20:47Z",
+            "owner": "sehmaschine",
+            "repo": "django-grappelli",
+            "stars": 3941
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-unfold",
+          "description": "Modern Django admin theme for seamless interface development.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T07:43:22Z",
+            "owner": "unfoldadmin",
+            "repo": "django-unfold",
+            "stars": 3625
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-admin-interface",
+          "description": "Customize Admin by the admin itself(color, header. title,logo) and popup windows replaced by modals.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T18:02:43Z",
+            "owner": "fabiocaccamo",
+            "repo": "django-admin-interface",
+            "stars": 2036
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-jazzmin",
+          "description": "Drop-in theme for django admin, that utilises AdminLTE 3 & Bootstrap 4 to make yo' admin look jazzy.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-06-25T21:05:32Z",
+            "owner": "farridav",
+            "repo": "django-jazzmin",
+            "stars": 1876
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-baton",
+          "description": "A cool, modern and responsive django admin application based on bootstrap 5.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-09T13:52:27Z",
+            "owner": "otto-torino",
+            "repo": "django-baton",
+            "stars": 995
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-jet-reboot",
+          "description": "Django Jet is modern template for Django admin interface with improved functionality.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2026-02-01T15:34:19Z",
+            "owner": "assem-ch",
+            "repo": "django-jet-reboot",
+            "stars": 495
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-daisy",
+          "description": "A modern django dashboard fully responsive built with daisyui.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2026-07-07T20:28:48Z",
+            "owner": "hypy13",
+            "repo": "django-daisy",
+            "stars": 360
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-semantic-admin",
+          "description": "Django Semantic UI admin theme.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-11T10:23:43Z",
+            "owner": "globophobe",
+            "repo": "django-semantic-admin",
+            "stars": 183
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-smartbase-admin",
+          "description": "Django SmartBase Admin 🚀 performance-tuned 👥 end-user ready beautiful admin panel",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T14:07:34Z",
+            "owner": "SmartBase-SK",
+            "repo": "django-smartbase-admin",
+            "stars": 128
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-admin-dracula",
+          "description": "🦇 Dracula themes for the Django admin.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "CSS",
+            "last_commit": "2024-12-12T06:38:21Z",
+            "owner": "sjbitcode",
+            "repo": "django-admin-dracula",
+            "stars": 49
+          }
+        }
+      ],
+      "title": "Admin Themes"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "django-rest-framework",
+          "description": "Web APIs for Django.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T11:26:08Z",
+            "owner": "encode",
+            "repo": "django-rest-framework",
+            "stars": 30129
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-cors-headers",
+          "description": "If your back-end and front-end are on different servers, you need this.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-04T21:44:29Z",
+            "owner": "adamchainz",
+            "repo": "django-cors-headers",
+            "stars": 5592
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "graphene-django",
+          "description": "GraphQL for Django.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-24T23:46:54Z",
+            "owner": "graphql-python",
+            "repo": "graphene-django",
+            "stars": 4392
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-rest-framework-simplejwt",
+          "description": "JSON web tokens for DRF.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T17:42:11Z",
+            "owner": "jazzband",
+            "repo": "djangorestframework-simplejwt",
+            "stars": 4330
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-tastypie",
+          "description": "Creating delicious APIs for Django apps since 2010.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-27T00:23:00Z",
+            "owner": "django-tastypie",
+            "repo": "django-tastypie",
+            "stars": 3948
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "drf-yasg",
+          "description": "Automated generation of real Swagger/OpenAPI 2.0 schemas from Django REST Framework code.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-20T04:33:54Z",
+            "owner": "axnsan12",
+            "repo": "drf-yasg",
+            "stars": 3544
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "drf-spectacular",
+          "description": "Sane and flexible OpenAPI 3 schema generation for Django REST framework.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T03:13:02Z",
+            "owner": "tfranzel",
+            "repo": "drf-spectacular",
+            "stars": 2851
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "djoser",
+          "description": "REST implementation of Django auth.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-01T20:17:04Z",
+            "owner": "sunscrapers",
+            "repo": "djoser",
+            "stars": 2683
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-webpack-loader",
+          "description": "Transparently use webpack with Django.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-13T14:48:04Z",
+            "owner": "django-webpack",
+            "repo": "django-webpack-loader",
+            "stars": 2541
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dj-rest-auth",
+          "description": "Authentication for Django Rest Framework.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-05T17:02:00Z",
+            "owner": "iMerica",
+            "repo": "dj-rest-auth",
+            "stars": 1866
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-modern-rest",
+          "description": "Modern REST with speed, types, async, , and other goodies!",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T02:06:26Z",
+            "owner": "wemake-services",
+            "repo": "django-modern-rest",
+            "stars": 1343
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-rest-knox",
+          "description": "Authentication Module for django-rest-auth.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T17:41:57Z",
+            "owner": "jazzband",
+            "repo": "django-rest-knox",
+            "stars": 1258
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "strawberry-django",
+          "description": "Django integration with Strawberry, a GraphQL library designed for modern development",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-11T08:59:07Z",
+            "owner": "strawberry-graphql",
+            "repo": "strawberry-django",
+            "stars": 500
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-webhook",
+          "description": "A plug-and-play Django app for sending outgoing webhooks on model changes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-08-19T18:56:35Z",
+            "owner": "danihodovic",
+            "repo": "django-webhook",
+            "stars": 226
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "djaq",
+          "description": "An instant remote API to Django models with a powerful query language.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-23T05:28:21Z",
+            "owner": "paul-wolf",
+            "repo": "djaq",
+            "stars": 82
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "graphene-django-filter",
+          "description": "Advanced filters implementing and/or/not operators in GraphQL for Django.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-04-06T13:34:18Z",
+            "owner": "devind-team",
+            "repo": "graphene-django-filter",
+            "stars": 20
+          }
+        }
+      ],
+      "title": "APIs"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "django-cacheops",
+          "description": "A slick ORM cache with automatic granular event-driven invalidation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-15T14:49:26Z",
+            "owner": "Suor",
+            "repo": "django-cacheops",
+            "stars": 2274
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-cachalot",
+          "description": "Caches your Django ORM queries and automatically invalidates them.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T19:37:23Z",
+            "owner": "noripyt",
+            "repo": "django-cachalot",
+            "stars": 1426
+          }
+        }
+      ],
+      "title": "Caching"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "django-extensions",
+          "description": "Custom management extensions, notably and .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-21T12:17:22Z",
+            "owner": "django-extensions",
+            "repo": "django-extensions",
+            "stars": 6812
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-dbbackup",
+          "description": "Management commands to help backup and restore your project database and media files.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-22T00:55:17Z",
+            "owner": "Archmonger",
+            "repo": "django-dbbackup",
+            "stars": 1112
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-click",
+          "description": "Write Django management commands using the click CLI library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-07T17:56:12Z",
+            "owner": "django-commons",
+            "repo": "django-click",
+            "stars": 298
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-typer",
+          "description": "Write Django management commands using the Typer CLI library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T03:04:28Z",
+            "owner": "django-commons",
+            "repo": "django-typer",
+            "stars": 269
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-migration-zero",
+          "description": "Holistic implementation of \"migration zero\" pattern for Django covering local changes and in-production database adjustments.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-03T13:47:08Z",
+            "owner": "ambient-innovation",
+            "repo": "django-migration-zero",
+            "stars": 86
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-liquidb",
+          "description": "Django application to simplify migration management and changes in states of db scheme.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-10-28T10:25:58Z",
+            "owner": "Gusakovskiy",
+            "repo": "django-liquidb",
+            "stars": 27
+          }
+        }
+      ],
+      "title": "Commands"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "django-environ",
+          "description": "Environment variables.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T17:43:42Z",
+            "owner": "joke2k",
+            "repo": "django-environ",
+            "stars": 3163
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-constance",
+          "description": "A Django app for storing dynamic settings in pluggable backends (Redis and Django model backend built in) with an integration with the Django admin app.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T14:08:00Z",
+            "owner": "jazzband",
+            "repo": "django-constance",
+            "stars": 1852
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "environs",
+          "description": "Simplified environment variable parsing that comes with a Django helper that installs additional packages.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-08T21:23:43Z",
+            "owner": "sloria",
+            "repo": "environs",
+            "stars": 1373
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-split-settings",
+          "description": "Organize multiple settings files.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T05:50:37Z",
+            "owner": "wemake-services",
+            "repo": "django-split-settings",
+            "stars": 1199
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-configurations",
+          "description": "eases Django project configuration by relying on the composability of Python classes and following principles of the twelve-factor app.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-12-15T20:21:25Z",
+            "owner": "jazzband",
+            "repo": "django-configurations",
+            "stars": 1135
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-extra-settings",
+          "description": "Config and manage typed extra settings using just the django admin.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T18:02:49Z",
+            "owner": "fabiocaccamo",
+            "repo": "django-extra-settings",
+            "stars": 618
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "confidential",
+          "description": "Manage configs and secrets (with CLI support).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-11-11T16:28:58Z",
+            "owner": "candidco",
+            "repo": "confidential",
+            "stars": 79
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-removals",
+          "description": "Detect deprecated settings variables via convenient system checks",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-09T08:26:43Z",
+            "owner": "ambient-innovation",
+            "repo": "django-removals",
+            "stars": 74
+          }
+        }
+      ],
+      "title": "Configuration"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "wagtail",
+          "description": "Popular Django content management system (CMS). See awesome-wagtail too.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T01:33:20Z",
+            "owner": "wagtail",
+            "repo": "wagtail",
+            "stars": 20440
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-cms",
+          "description": "CMS for Django.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T10:42:41Z",
+            "owner": "django-cms",
+            "repo": "django-cms",
+            "stars": 10661
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mezzanine",
+          "description": "CMS framework.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-19T10:10:29Z",
+            "owner": "stephenmcd",
+            "repo": "mezzanine",
+            "stars": 4822
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "feincms",
+          "description": "An extensible Django-based CMS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-11T07:14:28Z",
+            "owner": "feincms",
+            "repo": "feincms",
+            "stars": 1114
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "puput",
+          "description": "Blog app features with Wagtail.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-13T22:24:53Z",
+            "owner": "APSL",
+            "repo": "puput",
+            "stars": 659
+          }
+        }
+      ],
+      "title": "Content Management Systems"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "saleor",
+          "description": "GraphQL-based Django E-Commerce Platform.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T09:33:06Z",
+            "owner": "saleor",
+            "repo": "saleor",
+            "stars": 23219
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-oscar",
+          "description": "Domain-driven e-commerce for Django.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T08:10:10Z",
+            "owner": "django-oscar",
+            "repo": "django-oscar",
+            "stars": 6617
+          }
+        }
+      ],
+      "title": "ECommerce"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "django-tinymce",
+          "description": "TinyMCE integration for Django.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-10T17:43:48Z",
+            "owner": "jazzband",
+            "repo": "django-tinymce",
+            "stars": 1352
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-summernote",
+          "description": "Summernote is a simple WYSIWYG editor.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-06-07T12:24:13Z",
+            "owner": "lqez",
+            "repo": "django-summernote",
+            "stars": 1087
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-markdownx",
+          "description": "Comprehensive Markdown plugin built for Django.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-21T09:02:42Z",
+            "owner": "neutronX",
+            "repo": "django-markdownx",
+            "stars": 938
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-markdown-editor",
+          "description": "Awesome Django Markdown Editor, supported for Bootstrap & Semantic-UI.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-20T12:53:09Z",
+            "owner": "agusmakmun",
+            "repo": "django-markdown-editor",
+            "stars": 896
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-business-logic",
+          "description": "Visual DSL framework for Django.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2025-03-24T17:58:08Z",
+            "owner": "dgk",
+            "repo": "django-business-logic",
+            "stars": 235
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-prose",
+          "description": "A lightweight editor for content creation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-21T00:03:40Z",
+            "owner": "withlogicco",
+            "repo": "django-prose",
+            "stars": 222
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-ace",
+          "description": "ACE integration for Django.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2026-05-14T16:18:04Z",
+            "owner": "django-ace",
+            "repo": "django-ace",
+            "stars": 148
+          }
+        }
+      ],
+      "title": "Editors"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "django-imagekit",
+          "description": "Django app for processing images for thumbnail, black-and-white and sizes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-12T09:48:34Z",
+            "owner": "matthewwithanm",
+            "repo": "django-imagekit",
+            "stars": 2349
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sorl-thumbnail",
+          "description": "Thumbnails for Django.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T17:42:19Z",
+            "owner": "jazzband",
+            "repo": "sorl-thumbnail",
+            "stars": 1795
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-cleanup",
+          "description": "Zero configuration file/image removal for local and remote files.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-06-05T22:10:48Z",
+            "owner": "un1t",
+            "repo": "django-cleanup",
+            "stars": 1213
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-pictures",
+          "description": "Responsive cross-browser image library using modern codes like AVIF & WebP.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-11T17:25:04Z",
+            "owner": "codingjoe",
+            "repo": "django-pictures",
+            "stars": 283
+          }
+        }
+      ],
+      "title": "Files/Images"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "django-crispy-forms",
+          "description": "DRY Django forms.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-29T11:10:33Z",
+            "owner": "django-crispy-forms",
+            "repo": "django-crispy-forms",
+            "stars": 5160
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-widget-tweaks",
+          "description": "Tweak form field rendering in templates.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-29T17:32:52Z",
+            "owner": "jazzband",
+            "repo": "django-widget-tweaks",
+            "stars": 2163
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-autocomplete-light",
+          "description": "Add autocompletion to forms.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-29T18:11:55Z",
+            "owner": "yourlabs",
+            "repo": "django-autocomplete-light",
+            "stars": 1870
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-formtools",
+          "description": "For form previous and multistep forms, previously part of Django until 1.8.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T17:41:43Z",
+            "owner": "jazzband",
+            "repo": "django-formtools",
+            "stars": 885
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-floppyforms",
+          "description": "Full control of form rendering.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-01-04T11:48:49Z",
+            "owner": "jazzband",
+            "repo": "django-floppyforms",
+            "stars": 838
+          }
+        }
+      ],
+      "title": "Forms"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ReactPy",
+          "description": "It's React, but in Python. Insert dynamically rendered Python into Django templates using the ReactPy-Django module.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-14T02:06:48Z",
+            "owner": "reactive-python",
+            "repo": "reactpy",
+            "stars": 8150
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Reactor",
+          "description": "Phoenix LiveView, but for Django.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-02-10T18:39:52Z",
+            "owner": "edelvalle",
+            "repo": "reactor",
+            "stars": 638
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Django-Bridge",
+          "description": "The simple way to build React frontends for Django applications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-05T18:01:50Z",
+            "owner": "kaedroho",
+            "repo": "django-bridge",
+            "stars": 275
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Django LiveView",
+          "description": "Framework for creating dynamic, reactive interfaces server-side with Django templates. Real-time updates via WebSocket with decorator-based handlers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-05-15T18:18:17Z",
+            "owner": "Django-LiveView",
+            "repo": "liveview",
+            "stars": 252
+          }
+        }
+      ],
+      "title": "Full-stack frameworks"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Weblate",
+          "description": "Weblate is a copylefted libre software web-based continuous localization system, used by over 2500 libre projects and companies in more than 165 countries.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T21:17:39Z",
+            "owner": "WeblateOrg",
+            "repo": "weblate",
+            "stars": 6019
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-filter",
+          "description": "Powerful filters based on Django QuerySets.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-15T14:54:24Z",
+            "owner": "carltongibson",
+            "repo": "django-filter",
+            "stars": 4686
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-sql-explorer",
+          "description": "Share data via SQL queries.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-04-23T01:55:00Z",
+            "owner": "explorerhq",
+            "repo": "sql-explorer",
+            "stars": 2879
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-tables2",
+          "description": "HTML tables with pagination/sorting.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-20T21:52:20Z",
+            "owner": "jieter",
+            "repo": "django-tables2",
+            "stars": 2012
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "iommi",
+          "description": "Toolkit for development of CRUD applications without writing HTML or JavaScript.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-22T07:40:37Z",
+            "owner": "iommirocks",
+            "repo": "iommi",
+            "stars": 1084
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-maintenance-mode",
+          "description": "Shows a 503 error page when maintenance-mode is on.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T18:02:53Z",
+            "owner": "fabiocaccamo",
+            "repo": "django-maintenance-mode",
+            "stars": 526
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-data-browser",
+          "description": "Interactive, user-friendly database explorer.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-07T11:48:04Z",
+            "owner": "tolomea",
+            "repo": "django-data-browser",
+            "stars": 380
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-freeze",
+          "description": "Convert your dynamic django site to a static one with one line of code.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T18:02:59Z",
+            "owner": "fabiocaccamo",
+            "repo": "django-freeze",
+            "stars": 130
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Django-Classy-Doc",
+          "description": "Document your own code in the style of CCBV and CDRF.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-11-24T12:05:09Z",
+            "owner": "nanuxbe",
+            "repo": "django-classy-doc",
+            "stars": 51
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-nh3",
+          "description": "Django integration with for nh3 and is an alternative for django-bleach.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-03T20:13:07Z",
+            "owner": "marksweb",
+            "repo": "django-nh3",
+            "stars": 42
+          }
+        }
+      ],
+      "title": "General"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "django-modeltranslations",
+          "description": "Translates Django models using a registration approach.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-14T05:20:08Z",
+            "owner": "deschler",
+            "repo": "django-modeltranslation",
+            "stars": 1481
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-rosetta",
+          "description": "Rosetta provides a UI to read and write your project's gettext catalogs within the Django Admin.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-30T09:05:25Z",
+            "owner": "mbi",
+            "repo": "django-rosetta",
+            "stars": 1158
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-localflavor",
+          "description": "A collection of functionality that is useful for particular countries or cultures. Previously a part of the Django core.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-03T13:15:44Z",
+            "owner": "django",
+            "repo": "django-localflavor",
+            "stars": 922
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-modeltrans",
+          "description": "Translate Django model fields in a JSONField.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-20T03:34:45Z",
+            "owner": "zostera",
+            "repo": "django-modeltrans",
+            "stars": 79
+          }
+        }
+      ],
+      "title": "Internationalisation (i18n)"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "django-structlog",
+          "description": "django-structlog is a structured logging integration for Django project using structlog",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T05:33:41Z",
+            "owner": "jrobichaud",
+            "repo": "django-structlog",
+            "stars": 527
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-guid",
+          "description": "Inject a GUID (Correlation-ID) into every log message in a Django request.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-05T04:49:40Z",
+            "owner": "snok",
+            "repo": "django-guid",
+            "stars": 483
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DRF-API-Logger",
+          "description": "An API Logger for your Django Rest Framework project.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-24T07:43:08Z",
+            "owner": "vishalanandl177",
+            "repo": "DRF-API-Logger",
+            "stars": 344
+          }
+        }
+      ],
+      "title": "Logging"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "django-prometheus",
+          "description": "Export Django monitoring metrics to Prometheus.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-30T16:35:54Z",
+            "owner": "django-commons",
+            "repo": "django-prometheus",
+            "stars": 1662
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-mixin",
+          "description": "Monitoring mixin for Django-prometheus. A set of Grafana dashboards and Prometheus rules for Django.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jsonnet",
+            "last_commit": "2026-04-27T11:18:39Z",
+            "owner": "adinhodovic",
+            "repo": "django-mixin",
+            "stars": 79
+          }
+        }
+      ],
+      "title": "Monitoring"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "django-anymail",
+          "description": "Django email backends and webhooks for Amazon SES, Brevo (Sendinblue), MailerSend, Mailgun, Mailjet, Postmark, Postal, Resend, SendGrid, SparkPost, Unisender Go and more.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-30T22:29:31Z",
+            "owner": "anymail",
+            "repo": "django-anymail",
+            "stars": 1895
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-pony-express",
+          "description": "Class-based emails including a test suite for Django.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-03T13:47:10Z",
+            "owner": "ambient-innovation",
+            "repo": "django-pony-express",
+            "stars": 83
+          }
+        }
+      ],
+      "title": "Mailing"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "django-model-utils",
+          "description": "Django model mixins and utilities.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T17:41:44Z",
+            "owner": "jazzband",
+            "repo": "django-model-utils",
+            "stars": 2762
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-money",
+          "description": "Money fields for forms/models.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2026-06-15T22:07:51Z",
+            "owner": "django-money",
+            "repo": "django-money",
+            "stars": 1775
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-phonenumber-field",
+          "description": "Model/form field for normalized phone numbers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T17:59:51Z",
+            "owner": "django-phonenumber-field",
+            "repo": "django-phonenumber-field",
+            "stars": 1551
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-colorfield",
+          "description": "Color field for django models with a nice color-picker widget.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T18:02:46Z",
+            "owner": "fabiocaccamo",
+            "repo": "django-colorfield",
+            "stars": 661
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-streamfield",
+          "description": "Simple StreamField for plain Django admin (based on Wagtail CMS StreamField idea).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-16T13:45:21Z",
+            "owner": "raagin",
+            "repo": "django-streamfield",
+            "stars": 131
+          }
+        }
+      ],
+      "title": "Model Fields"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "django-taggit",
+          "description": "Simple model tags.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-29T17:32:46Z",
+            "owner": "jazzband",
+            "repo": "django-taggit",
+            "stars": 3444
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-reversion",
+          "description": "Version control for model instances.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-12T19:53:54Z",
+            "owner": "etianen",
+            "repo": "django-reversion",
+            "stars": 3169
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-mptt",
+          "description": "Modified Preorder Tree Traversal; working with trees of Model instances.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-02T11:06:20Z",
+            "owner": "django-mptt",
+            "repo": "django-mptt",
+            "stars": 2972
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-simple-history",
+          "description": "Store model history and view/revert changes from the admin.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T17:12:42Z",
+            "owner": "django-commons",
+            "repo": "django-simple-history",
+            "stars": 2461
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-polymorphic",
+          "description": "Django-polymorphic simplifies using inherited models in Django projects.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-07T18:10:55Z",
+            "owner": "django-commons",
+            "repo": "django-polymorphic",
+            "stars": 1832
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-lifecycle",
+          "description": "Declarative model lifecycle hooks, an alternative to Signals.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-14T10:05:37Z",
+            "owner": "rsinger86",
+            "repo": "django-lifecycle",
+            "stars": 1405
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-treenode",
+          "description": "Abstract model/admin for tree-based stuff.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T18:02:54Z",
+            "owner": "fabiocaccamo",
+            "repo": "django-treenode",
+            "stars": 803
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-recurrence",
+          "description": "Utility for working with recurring dates in Django.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-22T08:52:41Z",
+            "owner": "jazzband",
+            "repo": "django-recurrence",
+            "stars": 542
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-auto-prefetch",
+          "description": "Automatically prefetch foreign key values as needed.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-04T21:47:01Z",
+            "owner": "adamchainz",
+            "repo": "django-auto-prefetch",
+            "stars": 417
+          }
+        }
+      ],
+      "title": "Models"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "py-spy",
+          "description": "Sampling profiler for Python programs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-07T01:48:25Z",
+            "owner": "benfred",
+            "repo": "py-spy",
+            "stars": 15431
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pyinstrument",
+          "description": "Call stack profiler for Python, Django, Flask, FastAPI.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-04T09:54:01Z",
+            "owner": "joerick",
+            "repo": "pyinstrument",
+            "stars": 8001
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-silk",
+          "description": "Live profiling and inspection of HTTP requests and database queries.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T04:03:46Z",
+            "owner": "jazzband",
+            "repo": "django-silk",
+            "stars": 4988
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-zeal",
+          "description": "Detect N+1 queries with user-friendly error messages",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-24T10:14:00Z",
+            "owner": "taobojlen",
+            "repo": "django-zeal",
+            "stars": 202
+          }
+        }
+      ],
+      "title": "Performance"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "django-guardian",
+          "description": "Per object permissions in Django.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-30T03:53:44Z",
+            "owner": "django-guardian",
+            "repo": "django-guardian",
+            "stars": 3910
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-rules",
+          "description": "A tiny but powerful app providing object-level permissions, built from the ground up for Django.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-10-11T06:42:08Z",
+            "owner": "dfunckt",
+            "repo": "django-rules",
+            "stars": 1977
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-role-permissions",
+          "description": "Django app for role-based permissions management.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-06-09T20:31:34Z",
+            "owner": "vintasoftware",
+            "repo": "django-role-permissions",
+            "stars": 755
+          }
+        }
+      ],
+      "title": "Permissions"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "django-haystack",
+          "description": "Modular search for Django.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-04T21:51:44Z",
+            "owner": "django-haystack",
+            "repo": "django-haystack",
+            "stars": 3739
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-watson",
+          "description": "Full-text search plugin.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-08-14T11:09:08Z",
+            "owner": "etianen",
+            "repo": "django-watson",
+            "stars": 1247
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-elasticsearch-dsl",
+          "description": "Elasticsearch DSL integration for Django.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-07-23T22:47:56Z",
+            "owner": "django-es",
+            "repo": "django-elasticsearch-dsl",
+            "stars": 1056
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-admin-search",
+          "description": "Modal filter for django admin.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-09-03T21:39:34Z",
+            "owner": "shinneider",
+            "repo": "django-admin-search",
+            "stars": 83
+          }
+        }
+      ],
+      "title": "Search"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "django-csp",
+          "description": "Adds Content-Security-Policy headers to Django.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-11-14T14:39:37Z",
+            "owner": "mozilla",
+            "repo": "django-csp",
+            "stars": 625
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-feature-policy",
+          "description": "Set the draft security HTTP header on a Django app.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-04T21:43:26Z",
+            "owner": "adamchainz",
+            "repo": "django-permissions-policy",
+            "stars": 118
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-protected-media",
+          "description": "Manages media that are considered sensitive in a protected fashion.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-12T09:15:30Z",
+            "owner": "cobusc",
+            "repo": "django-protected-media",
+            "stars": 70
+          }
+        }
+      ],
+      "title": "Security"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "django-storages",
+          "description": "A single library to support multiple custom storage backends for Django.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-02T21:27:00Z",
+            "owner": "jschneier",
+            "repo": "django-storages",
+            "stars": 2957
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-compressor",
+          "description": "Compress JavaScript/CSS into a single cached file.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-28T07:03:12Z",
+            "owner": "django-compressor",
+            "repo": "django-compressor",
+            "stars": 2870
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "whitenoise",
+          "description": "Simplified static file serving for Python websites.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-04T21:40:32Z",
+            "owner": "evansd",
+            "repo": "whitenoise",
+            "stars": 2758
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "easy-thumbnails",
+          "description": "Image thumbnails for Django.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-06T21:53:06Z",
+            "owner": "SmileyChris",
+            "repo": "easy-thumbnails",
+            "stars": 1410
+          }
+        }
+      ],
+      "title": "Static Assets"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "celery",
+          "description": "Robust and broker-agnostic task queues for bigger, performance-focused projects.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T16:55:09Z",
+            "owner": "celery",
+            "repo": "celery",
+            "stars": 28785
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "flower",
+          "description": "Flower is a web-based tool for monitoring and administrating Celery clusters.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-08T14:11:49Z",
+            "owner": "mher",
+            "repo": "flower",
+            "stars": 7230
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "huey",
+          "description": "A little task queue for Python, with Django support including the new API.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-05T12:51:06Z",
+            "owner": "coleifer",
+            "repo": "huey",
+            "stars": 6005
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-redis",
+          "description": "Full-featured Redis cache backend for Django.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T17:41:53Z",
+            "owner": "jazzband",
+            "repo": "django-redis",
+            "stars": 3080
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-rq",
+          "description": "Integration for Redis Queue.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T04:52:49Z",
+            "owner": "rq",
+            "repo": "django-rq",
+            "stars": 1950
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-celery-beat",
+          "description": "A periodic task scheduler with database configured by Django's Admin Panel.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T17:06:06Z",
+            "owner": "celery",
+            "repo": "django-celery-beat",
+            "stars": 1946
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-tasks",
+          "description": "A reference implementation and backport of background workers and tasks in Django, based on DEP 14.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-22T15:48:23Z",
+            "owner": "RealOrangeOne",
+            "repo": "django-tasks",
+            "stars": 809
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-celery-results",
+          "description": "Celery result backend with Django.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T16:55:14Z",
+            "owner": "celery",
+            "repo": "django-celery-results",
+            "stars": 785
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-q2",
+          "description": "A multiprocessing distributed task queue for Django.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-09T01:20:51Z",
+            "owner": "django-q2",
+            "repo": "django-q2",
+            "stars": 624
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "celery-exporter",
+          "description": "Prometheus & Grafana monitoring of Celery tasks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jsonnet",
+            "last_commit": "2026-06-09T10:50:25Z",
+            "owner": "danihodovic",
+            "repo": "celery-exporter",
+            "stars": 556
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-dramatiq",
+          "description": "Task processing library with a focus on simplicity, reliability, and performance.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-10T14:37:26Z",
+            "owner": "Bogdanp",
+            "repo": "django_dramatiq",
+            "stars": 384
+          }
+        }
+      ],
+      "title": "Task Queues"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "django-components",
+          "description": "A way to create simple reusable template components in Django.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T17:52:48Z",
+            "owner": "django-components",
+            "repo": "django-components",
+            "stars": 1514
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-template-partials",
+          "description": "Reusable named inline partials for the Django Template Language.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-11-20T21:08:46Z",
+            "owner": "carltongibson",
+            "repo": "django-template-partials",
+            "stars": 655
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-suspense",
+          "description": "Easy way to display a fallback in templates until children have finished loading (like React).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-20T00:28:46Z",
+            "owner": "paqstd-dev",
+            "repo": "django-suspense",
+            "stars": 17
+          }
+        }
+      ],
+      "title": "Templates"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "django-debug-toolbar",
+          "description": "Configurable panels to debug requests/responses.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T21:28:11Z",
+            "owner": "django-commons",
+            "repo": "django-debug-toolbar",
+            "stars": 8378
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "factory-boy",
+          "description": "Test fixtures replacement.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-01T19:04:12Z",
+            "owner": "FactoryBoy",
+            "repo": "factory_boy",
+            "stars": 3805
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pytest-django",
+          "description": "Use pytest features in Django.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T20:42:59Z",
+            "owner": "pytest-dev",
+            "repo": "pytest-django",
+            "stars": 1543
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-waffle",
+          "description": "A feature flipper for Django.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-07T04:47:15Z",
+            "owner": "django-waffle",
+            "repo": "django-waffle",
+            "stars": 1243
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "model-bakery",
+          "description": "Object factory for Django (rename of legacy Model Mommy project).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-09T09:33:19Z",
+            "owner": "model-bakers",
+            "repo": "model_bakery",
+            "stars": 1002
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-test-plus",
+          "description": "Useful additions to Django's default TestCase.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-02T00:36:50Z",
+            "owner": "revsys",
+            "repo": "django-test-plus",
+            "stars": 632
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-test-migrations",
+          "description": "Test django schema and data migrations, including migrations' order.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T02:03:04Z",
+            "owner": "wemake-services",
+            "repo": "django-test-migrations",
+            "stars": 573
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-pattern-library",
+          "description": "Pattern library generator for Django templates, to help testing of UI components.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-24T16:55:30Z",
+            "owner": "torchbox",
+            "repo": "django-pattern-library",
+            "stars": 420
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "storybook-django",
+          "description": "Develop Django UI components in isolation, with Storybook.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-02-10T16:36:52Z",
+            "owner": "torchbox",
+            "repo": "storybook-django",
+            "stars": 121
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-fakery",
+          "description": "An easy-to-use implementation of Creation Methods for Django, backed by Faker.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-07-07T07:47:13Z",
+            "owner": "fcurella",
+            "repo": "django-fakery",
+            "stars": 116
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "drf-openapi-tester",
+          "description": "Django test utility for validating Swagger 2.0 and OpenAPI 3.0 documentation.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2023-11-19T17:47:20Z",
+            "owner": "snok",
+            "repo": "drf-openapi-tester",
+            "stars": 114
+          }
+        }
+      ],
+      "title": "Testing"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "dj-database-url",
+          "description": "Database URLs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T17:41:22Z",
+            "owner": "jazzband",
+            "repo": "dj-database-url",
+            "stars": 1572
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-robots",
+          "description": "This is a basic Django application to manage robots.txt files following the robots exclusion protocol, complementing the Django Sitemap contrib app.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T17:42:07Z",
+            "owner": "jazzband",
+            "repo": "django-robots",
+            "stars": 475
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "urlman",
+          "description": "A nicer way to do URLs for Django models.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-12-23T20:05:06Z",
+            "owner": "andrewgodwin",
+            "repo": "urlman",
+            "stars": 124
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-redirects",
+          "description": "Redirects as they should be, with full control.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T18:02:53Z",
+            "owner": "fabiocaccamo",
+            "repo": "django-redirects",
+            "stars": 79
+          }
+        }
+      ],
+      "title": "URLs"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "django-allauth",
+          "description": "Improved user registration including social auth.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-06T14:33:01Z",
+            "owner": "pennersr",
+            "repo": "django-allauth",
+            "stars": 10366
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-organizations",
+          "description": "Multi-user accounts for Django projects.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-09T07:20:15Z",
+            "owner": "bennylope",
+            "repo": "django-organizations",
+            "stars": 1362
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-allauth-ui",
+          "description": "Better-looking templates for django-allauth.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-02-14T03:50:49Z",
+            "owner": "danihodovic",
+            "repo": "django-allauth-ui",
+            "stars": 401
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-cas-ng",
+          "description": "Django-cas-ng is Django CAS (Central Authentication Service) 1.0/2.0/3.0 client library to support SSO (Single Sign On) and Single Logout (SLO).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-09T10:09:33Z",
+            "owner": "django-cas-ng",
+            "repo": "django-cas-ng",
+            "stars": 392
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-improved-user",
+          "description": "A custom Django user that authenticates via email. Follows identity and authentication best practices.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T18:38:32Z",
+            "owner": "jambonrose",
+            "repo": "django-improved-user",
+            "stars": 159
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-guest-user",
+          "description": "Allow visitors to use your site like a regular user and register later.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-01-27T16:26:05Z",
+            "owner": "julianwachholz",
+            "repo": "django-guest-user",
+            "stars": 79
+          }
+        }
+      ],
+      "title": "Users"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "django-braces",
+          "description": "Reusable, generic mixins.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-03-18T02:03:38Z",
+            "owner": "brack3t",
+            "repo": "django-braces",
+            "stars": 2019
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-extra-views",
+          "description": "Extra class-based generic views.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-04-28T07:04:07Z",
+            "owner": "AndrewIngram",
+            "repo": "django-extra-views",
+            "stars": 1436
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-easy-audit",
+          "description": "Keep track of user actions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-11T02:45:59Z",
+            "owner": "soynatan",
+            "repo": "django-easy-audit",
+            "stars": 844
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "neapolitan",
+          "description": "Quick CRUD views for Django.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-15T09:57:28Z",
+            "owner": "carltongibson",
+            "repo": "neapolitan",
+            "stars": 705
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-stronghold",
+          "description": "Makes all your Django views default login_required.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-11-24T19:39:30Z",
+            "owner": "mgrouchy",
+            "repo": "django-stronghold",
+            "stars": 396
+          }
+        }
+      ],
+      "title": "Views"
+    },
+    {
+      "description": "Standalone tools that help in developing Django projects.",
+      "items": [],
+      "title": "Developer Tools"
+    },
+    {
+      "description": "A short list of Python packages that work well with Django.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Ruff",
+          "description": "An extremely fast Python linter and code formatter, written in Rust.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-13T03:41:46Z",
+            "owner": "astral-sh",
+            "repo": "ruff",
+            "stars": 49172
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "black",
+          "description": "Uncompromising Python code formatter.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T21:24:42Z",
+            "owner": "psf",
+            "repo": "black",
+            "stars": 41798
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "faker",
+          "description": "Faker is a Python package that generates fake data for you.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-03T17:10:57Z",
+            "owner": "joke2k",
+            "repo": "faker",
+            "stars": 19370
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pytest",
+          "description": "Testing framework.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T20:38:35Z",
+            "owner": "pytest-dev",
+            "repo": "pytest",
+            "stars": 14410
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pillow",
+          "description": "Python Imaging Library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T02:26:22Z",
+            "owner": "python-pillow",
+            "repo": "Pillow",
+            "stars": 13751
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "python-socketio",
+          "description": "Python implementation of the Socket.IO_ realtime client and server. (create Socket.io Django server instance)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-09T23:02:03Z",
+            "owner": "miguelgrinberg",
+            "repo": "python-socketio",
+            "stars": 4369
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "coveragepy",
+          "description": "Code coverage measurement.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-09T23:28:57Z",
+            "owner": "coveragepy",
+            "repo": "coveragepy",
+            "stars": 3407
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "python-decouple",
+          "description": "Strict separation of settings from code.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-11-28T20:56:27Z",
+            "owner": "HBNetwork",
+            "repo": "python-decouple",
+            "stars": 3039
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bleach",
+          "description": "Sanitize your inputs/forms.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2026-06-05T13:02:39Z",
+            "owner": "mozilla",
+            "repo": "bleach",
+            "stars": 2769
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sentry-python",
+          "description": "Error reporting SDK.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T18:36:42Z",
+            "owner": "getsentry",
+            "repo": "sentry-python",
+            "stars": 2203
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "python-slugify",
+          "description": "Returns unicode slugs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-27T11:17:17Z",
+            "owner": "un33k",
+            "repo": "python-slugify",
+            "stars": 1622
+          }
+        }
+      ],
+      "title": "Python Packages"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Resources"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Hosting"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Projects"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "cookiecutter-django",
+          "description": "A full-bodied starter project, highly customizable.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T03:08:28Z",
+            "owner": "cookiecutter",
+            "repo": "cookiecutter-django",
+            "stars": 13591
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "djangox",
+          "description": "Batteries included starter project for Pip, Pipenv, or Docker.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-09T00:47:07Z",
+            "owner": "wsvincent",
+            "repo": "lithium",
+            "stars": 2463
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-react-boilerplate",
+          "description": "A Django, React, Tailwind, Webpack project boilerplate",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-04T15:46:01Z",
+            "owner": "vintasoftware",
+            "repo": "django-react-boilerplate",
+            "stars": 2268
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "wemake-django-template",
+          "description": "Bleeding-edge Django template focused on code quality and security.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T17:48:36Z",
+            "owner": "wemake-services",
+            "repo": "wemake-django-template",
+            "stars": 2267
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-base-site",
+          "description": "A Django site with many common third-party packages pre-installed.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-08T16:03:26Z",
+            "owner": "epicserve",
+            "repo": "django-base-site",
+            "stars": 450
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Falco",
+          "description": "Enhance your Django developer experience: CLI and Guides for the Modern Django Developer.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-15T10:01:57Z",
+            "owner": "falcopackages",
+            "repo": "falco-cli",
+            "stars": 391
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-startproject",
+          "description": "Django start project template with batteries.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Just",
+            "last_commit": "2026-07-26T03:13:13Z",
+            "owner": "jefftriplett",
+            "repo": "django-startproject",
+            "stars": 278
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sidewinder",
+          "description": "A Django starter kit that focuses on good defaults, developer experience, and deployment.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-09-04T14:44:28Z",
+            "owner": "stribny",
+            "repo": "sidewinder",
+            "stars": 236
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cookiecutter-vue-django",
+          "description": "Django + Vue starter project fusing Vue SFCs & Django Templates.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-11-20T18:47:59Z",
+            "owner": "ilikerobots",
+            "repo": "cookiecutter-vue-django",
+            "stars": 231
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-docker-template",
+          "description": "Dockerized Django with Postgres, Gunicorn, and Traefik (with auto-renew Let's Encrypt).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-04-19T09:28:14Z",
+            "owner": "amerkurev",
+            "repo": "django-docker-template",
+            "stars": 229
+          }
+        }
+      ],
+      "title": "Boilerplate"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "PostHog",
+          "description": "Open-source product analytics.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T04:11:04Z",
+            "owner": "PostHog",
+            "repo": "posthog",
+            "stars": 37642
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Zulip",
+          "description": "Open-source team chat.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T07:46:41Z",
+            "owner": "zulip",
+            "repo": "zulip",
+            "stars": 25688
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "linkding",
+          "description": "Self-hosted bookmark manager that is designed to be minimal, fast, and easy to set up using Docker.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T21:33:31Z",
+            "owner": "sissbruecker",
+            "repo": "linkding",
+            "stars": 11048
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Healthchecks",
+          "description": "A Cron Monitoring Tool written in Python & Django.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-11T08:56:02Z",
+            "owner": "healthchecks",
+            "repo": "healthchecks",
+            "stars": 10237
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Flagsmith",
+          "description": "Open-source Feature Flagging, Remote Config, and AB testing.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T22:10:26Z",
+            "owner": "Flagsmith",
+            "repo": "flagsmith",
+            "stars": 6511
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Baserow",
+          "description": "Open source no-code database and Airtable alternative built with Django and Vue.js.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T16:54:51Z",
+            "owner": "baserow",
+            "repo": "baserow",
+            "stars": 5585
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bootcamp: An enterprise social network",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2023-10-01T14:56:30Z",
+            "owner": "vitorfs",
+            "repo": "bootcamp",
+            "stars": 2301
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenContracts",
+          "description": "Enterprise-grade document analytics platform that combines automated PDF parsing, vector embeddings, and LLM integration.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-11T16:33:13Z",
+            "owner": "Open-Source-Legal",
+            "repo": "OpenContracts",
+            "stars": 1437
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Blog app with users and forms",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-03-22T03:27:21Z",
+            "owner": "wsvincent",
+            "repo": "djangoforbeginners",
+            "stars": 1384
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Newspaper app with custom user model, full user auth",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-03-22T03:27:21Z",
+            "owner": "wsvincent",
+            "repo": "djangoforbeginners",
+            "stars": 1384
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-job-portal",
+          "description": "Job portal application using Django.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-03T08:41:28Z",
+            "owner": "manjurulhoque",
+            "repo": "django-job-portal",
+            "stars": 620
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Django CRM Admin",
+          "description": "Open source Python CRM built entirely on Django Admin Site.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T06:04:06Z",
+            "owner": "DjangoCRM",
+            "repo": "django-crm",
+            "stars": 609
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pythonic-news",
+          "description": "Hacker News clone.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-12-08T06:41:55Z",
+            "owner": "sebst",
+            "repo": "pythonic-news",
+            "stars": 542
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Image Sharing Blog",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-08-04T15:37:36Z",
+            "owner": "MeNsaaH",
+            "repo": "soMedia",
+            "stars": 105
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Behavior-Driven Development with Aloe",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-02-15T19:59:24Z",
+            "owner": "testdrivenio",
+            "repo": "django-aloe-bdd",
+            "stars": 44
+          }
+        }
+      ],
+      "title": "Open Source Projects"
+    },
+    {
+      "description": "The most popular way to build web APIs with Django.",
+      "items": [],
+      "title": "Django REST Framework"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "DRF Source Code",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T11:26:08Z",
+            "owner": "encode",
+            "repo": "django-rest-framework",
+            "stars": 30129
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-django-rest-framework",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-03T05:11:23Z",
+            "owner": "nioperas06",
+            "repo": "awesome-django-rest-framework",
+            "stars": 1471
+          }
+        }
+      ],
+      "title": "DRF Resources"
+    },
+    {
+      "description": "Wagtail, the powerful CMS for modern websites.",
+      "items": [],
+      "title": "Wagtail"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Wagtail Source Code",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T01:33:20Z",
+            "owner": "wagtail",
+            "repo": "wagtail",
+            "stars": 20440
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-wagtail",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-16T14:16:16Z",
+            "owner": "wagtail",
+            "repo": "awesome-wagtail",
+            "stars": 2185
+          }
+        }
+      ],
+      "title": "Wagtail Resources"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:11:03.683Z",
+    "original_repository": "wsvincent/awesome-django",
+    "original_repository_sha": "a1d7c04c872d29e105c83ef8bea9f4c2bf3e2bd6",
+    "enhanced_repository": "enhansome/enhansome-django",
+    "enhanced_repository_description": null,
+    "title": "Awesome Django with stars"
+  }
+}
