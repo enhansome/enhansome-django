@@ -14,7 +14,7 @@
                 "archived": false,
                 "id": 6704888,
                 "language": "Python",
-                "last_commit": "2026-08-17T20:36:26Z",
+                "last_commit": "2026-08-20T12:11:35Z",
                 "owner": "django-import-export",
                 "repo": "django-import-export",
                 "stars": 3331
@@ -62,7 +62,7 @@
                 "last_commit": "2026-08-11T19:37:34Z",
                 "owner": "django-control-room",
                 "repo": "dj-control-room",
-                "stars": 566
+                "stars": 565
               }
             },
             {
@@ -186,10 +186,10 @@
                 "archived": false,
                 "id": 526497574,
                 "language": "Python",
-                "last_commit": "2026-08-19T13:37:46Z",
+                "last_commit": "2026-08-20T11:56:27Z",
                 "owner": "unfoldadmin",
                 "repo": "django-unfold",
-                "stars": 3628
+                "stars": 3629
               }
             },
             {
@@ -204,7 +204,7 @@
                 "last_commit": "2026-08-17T18:15:52Z",
                 "owner": "fabiocaccamo",
                 "repo": "django-admin-interface",
-                "stars": 2036
+                "stars": 2037
               }
             },
             {
@@ -264,7 +264,7 @@
                 "last_commit": "2026-07-07T20:28:48Z",
                 "owner": "hypy13",
                 "repo": "django-daisy",
-                "stars": 362
+                "stars": 363
               }
             },
             {
@@ -316,7 +316,7 @@
                 "last_commit": "2026-08-19T14:15:51Z",
                 "owner": "encode",
                 "repo": "django-rest-framework",
-                "stars": 30132
+                "stars": 30134
               }
             },
             {
@@ -331,7 +331,7 @@
                 "last_commit": "2026-08-18T20:32:38Z",
                 "owner": "adamchainz",
                 "repo": "django-cors-headers",
-                "stars": 5585
+                "stars": 5586
               }
             },
             {
@@ -361,7 +361,7 @@
                 "last_commit": "2026-08-17T17:51:09Z",
                 "owner": "jazzband",
                 "repo": "djangorestframework-simplejwt",
-                "stars": 4331
+                "stars": 4332
               }
             },
             {
@@ -376,7 +376,7 @@
                 "last_commit": "2026-07-27T00:23:00Z",
                 "owner": "django-tastypie",
                 "repo": "django-tastypie",
-                "stars": 3947
+                "stars": 3946
               }
             },
             {
@@ -388,7 +388,7 @@
                 "archived": false,
                 "id": 112461400,
                 "language": "Python",
-                "last_commit": "2026-07-20T04:33:54Z",
+                "last_commit": "2026-08-20T13:38:05Z",
                 "owner": "axnsan12",
                 "repo": "drf-yasg",
                 "stars": 3545
@@ -406,7 +406,7 @@
                 "last_commit": "2026-08-10T03:13:02Z",
                 "owner": "tfranzel",
                 "repo": "drf-spectacular",
-                "stars": 2851
+                "stars": 2852
               }
             },
             {
@@ -451,7 +451,7 @@
                 "last_commit": "2026-06-05T17:02:00Z",
                 "owner": "iMerica",
                 "repo": "dj-rest-auth",
-                "stars": 1865
+                "stars": 1866
               }
             },
             {
@@ -463,10 +463,10 @@
                 "archived": false,
                 "id": 1072817092,
                 "language": "Python",
-                "last_commit": "2026-08-20T06:30:36Z",
+                "last_commit": "2026-08-21T02:04:31Z",
                 "owner": "wemake-services",
                 "repo": "django-modern-rest",
-                "stars": 1360
+                "stars": 1361
               }
             },
             {
@@ -478,7 +478,7 @@
                 "archived": false,
                 "id": 42185087,
                 "language": "Python",
-                "last_commit": "2026-08-17T17:50:55Z",
+                "last_commit": "2026-08-20T15:50:31Z",
                 "owner": "jazzband",
                 "repo": "django-rest-knox",
                 "stars": 1259
@@ -578,7 +578,7 @@
                 "last_commit": "2026-08-10T19:37:23Z",
                 "owner": "noripyt",
                 "repo": "django-cachalot",
-                "stars": 1427
+                "stars": 1428
               }
             }
           ],
@@ -600,7 +600,7 @@
                 "last_commit": "2026-05-21T12:17:22Z",
                 "owner": "django-extensions",
                 "repo": "django-extensions",
-                "stars": 6813
+                "stars": 6814
               }
             },
             {
@@ -645,7 +645,7 @@
                 "last_commit": "2026-08-12T03:04:28Z",
                 "owner": "django-commons",
                 "repo": "django-typer",
-                "stars": 270
+                "stars": 271
               }
             },
             {
@@ -851,10 +851,10 @@
                 "archived": false,
                 "id": 16479108,
                 "language": "Python",
-                "last_commit": "2026-08-20T00:59:34Z",
+                "last_commit": "2026-08-20T19:28:42Z",
                 "owner": "wagtail",
                 "repo": "wagtail",
-                "stars": 20443
+                "stars": 20446
               }
             },
             {
@@ -866,10 +866,10 @@
                 "archived": false,
                 "id": 143580,
                 "language": "Python",
-                "last_commit": "2026-08-19T14:13:02Z",
+                "last_commit": "2026-08-20T09:06:22Z",
                 "owner": "django-cms",
                 "repo": "django-cms",
-                "stars": 10661
+                "stars": 10662
               }
             },
             {
@@ -884,7 +884,7 @@
                 "last_commit": "2026-04-19T10:10:29Z",
                 "owner": "stephenmcd",
                 "repo": "mezzanine",
-                "stars": 4821
+                "stars": 4822
               }
             },
             {
@@ -899,7 +899,7 @@
                 "last_commit": "2026-08-18T06:32:17Z",
                 "owner": "feincms",
                 "repo": "feincms",
-                "stars": 1112
+                "stars": 1114
               }
             },
             {
@@ -933,10 +933,10 @@
                 "archived": false,
                 "id": 8162715,
                 "language": "Python",
-                "last_commit": "2026-08-20T07:53:06Z",
+                "last_commit": "2026-08-21T07:01:34Z",
                 "owner": "saleor",
                 "repo": "saleor",
-                "stars": 23240
+                "stars": 23247
               }
             },
             {
@@ -948,10 +948,10 @@
                 "archived": false,
                 "id": 1151051,
                 "language": "Python",
-                "last_commit": "2026-08-18T06:30:23Z",
+                "last_commit": "2026-08-20T15:36:03Z",
                 "owner": "django-oscar",
                 "repo": "django-oscar",
-                "stars": 6618
+                "stars": 6620
               }
             }
           ],
@@ -1003,7 +1003,7 @@
                 "last_commit": "2026-07-21T09:02:42Z",
                 "owner": "neutronX",
                 "repo": "django-markdownx",
-                "stars": 938
+                "stars": 939
               }
             },
             {
@@ -1167,7 +1167,7 @@
                 "last_commit": "2026-06-29T17:32:52Z",
                 "owner": "jazzband",
                 "repo": "django-widget-tweaks",
-                "stars": 2163
+                "stars": 2164
               }
             },
             {
@@ -1234,7 +1234,7 @@
                 "last_commit": "2026-07-14T02:06:48Z",
                 "owner": "reactive-python",
                 "repo": "reactpy",
-                "stars": 8152
+                "stars": 8151
               }
             },
             {
@@ -1298,10 +1298,10 @@
                 "archived": false,
                 "id": 3559019,
                 "language": "Python",
-                "last_commit": "2026-08-20T08:00:35Z",
+                "last_commit": "2026-08-21T06:46:27Z",
                 "owner": "WeblateOrg",
                 "repo": "weblate",
-                "stars": 6030
+                "stars": 6032
               }
             },
             {
@@ -1316,7 +1316,7 @@
                 "last_commit": "2026-07-15T14:54:24Z",
                 "owner": "carltongibson",
                 "repo": "django-filter",
-                "stars": 4684
+                "stars": 4685
               }
             },
             {
@@ -1331,7 +1331,7 @@
                 "last_commit": "2025-04-23T01:55:00Z",
                 "owner": "explorerhq",
                 "repo": "sql-explorer",
-                "stars": 2879
+                "stars": 2878
               }
             },
             {
@@ -1525,7 +1525,7 @@
                 "last_commit": "2026-08-10T05:33:41Z",
                 "owner": "jrobichaud",
                 "repo": "django-structlog",
-                "stars": 528
+                "stars": 529
               }
             },
             {
@@ -1763,7 +1763,7 @@
                 "last_commit": "2026-08-17T18:48:22Z",
                 "owner": "django-commons",
                 "repo": "django-simple-history",
-                "stars": 2461
+                "stars": 2462
               }
             },
             {
@@ -1860,7 +1860,7 @@
                 "last_commit": "2026-08-14T01:33:58Z",
                 "owner": "benfred",
                 "repo": "py-spy",
-                "stars": 15444
+                "stars": 15445
               }
             },
             {
@@ -1875,7 +1875,7 @@
                 "last_commit": "2026-08-04T09:54:01Z",
                 "owner": "joerick",
                 "repo": "pyinstrument",
-                "stars": 8004
+                "stars": 8005
               }
             },
             {
@@ -1942,7 +1942,7 @@
                 "last_commit": "2025-10-11T06:42:08Z",
                 "owner": "dfunckt",
                 "repo": "django-rules",
-                "stars": 1978
+                "stars": 1977
               }
             },
             {
@@ -2110,7 +2110,7 @@
                 "archived": false,
                 "id": 504028,
                 "language": "Python",
-                "last_commit": "2026-07-28T07:03:12Z",
+                "last_commit": "2026-08-20T11:38:55Z",
                 "owner": "django-compressor",
                 "repo": "django-compressor",
                 "stars": 2870
@@ -2162,10 +2162,10 @@
                 "archived": false,
                 "id": 184460,
                 "language": "Python",
-                "last_commit": "2026-08-18T15:56:43Z",
+                "last_commit": "2026-08-20T16:55:48Z",
                 "owner": "celery",
                 "repo": "celery",
-                "stars": 28799
+                "stars": 28803
               }
             },
             {
@@ -2195,7 +2195,7 @@
                 "last_commit": "2026-08-16T13:54:43Z",
                 "owner": "coleifer",
                 "repo": "huey",
-                "stars": 6005
+                "stars": 6006
               }
             },
             {
@@ -2210,7 +2210,7 @@
                 "last_commit": "2026-08-17T17:50:51Z",
                 "owner": "jazzband",
                 "repo": "django-redis",
-                "stars": 3080
+                "stars": 3081
               }
             },
             {
@@ -2237,7 +2237,7 @@
                 "archived": false,
                 "id": 64884021,
                 "language": "Python",
-                "last_commit": "2026-08-17T17:14:13Z",
+                "last_commit": "2026-08-20T16:15:05Z",
                 "owner": "celery",
                 "repo": "django-celery-beat",
                 "stars": 1949
@@ -2419,7 +2419,7 @@
                 "last_commit": "2026-08-10T20:42:59Z",
                 "owner": "pytest-dev",
                 "repo": "pytest-django",
-                "stars": 1544
+                "stars": 1545
               }
             },
             {
@@ -2434,7 +2434,7 @@
                 "last_commit": "2026-06-07T04:47:15Z",
                 "owner": "django-waffle",
                 "repo": "django-waffle",
-                "stars": 1249
+                "stars": 1252
               }
             },
             {
@@ -2476,7 +2476,7 @@
                 "archived": false,
                 "id": 223188953,
                 "language": "Python",
-                "last_commit": "2026-08-18T07:02:26Z",
+                "last_commit": "2026-08-21T02:03:03Z",
                 "owner": "wemake-services",
                 "repo": "django-test-migrations",
                 "stars": 573
@@ -2613,7 +2613,7 @@
                 "last_commit": "2026-08-13T10:03:36Z",
                 "owner": "pennersr",
                 "repo": "django-allauth",
-                "stars": 10371
+                "stars": 10372
               }
             },
             {
@@ -2710,7 +2710,7 @@
                 "last_commit": "2025-03-18T02:03:38Z",
                 "owner": "brack3t",
                 "repo": "django-braces",
-                "stars": 2020
+                "stars": 2019
               }
             },
             {
@@ -2793,10 +2793,10 @@
             "archived": false,
             "id": 523043277,
             "language": "Rust",
-            "last_commit": "2026-08-20T06:53:33Z",
+            "last_commit": "2026-08-21T05:28:13Z",
             "owner": "astral-sh",
             "repo": "ruff",
-            "stars": 49260
+            "stars": 49273
           }
         },
         {
@@ -2808,10 +2808,10 @@
             "archived": false,
             "id": 125266328,
             "language": "Python",
-            "last_commit": "2026-08-20T06:33:13Z",
+            "last_commit": "2026-08-20T13:01:16Z",
             "owner": "psf",
             "repo": "black",
-            "stars": 41809
+            "stars": 41815
           }
         },
         {
@@ -2823,10 +2823,10 @@
             "archived": false,
             "id": 6662075,
             "language": "Python",
-            "last_commit": "2026-08-03T17:10:57Z",
+            "last_commit": "2026-08-20T21:15:40Z",
             "owner": "joke2k",
             "repo": "faker",
-            "stars": 19371
+            "stars": 19370
           }
         },
         {
@@ -2838,10 +2838,10 @@
             "archived": false,
             "id": 37489525,
             "language": "Python",
-            "last_commit": "2026-08-19T19:27:59Z",
+            "last_commit": "2026-08-20T19:20:51Z",
             "owner": "pytest-dev",
             "repo": "pytest",
-            "stars": 14430
+            "stars": 14435
           }
         },
         {
@@ -2853,10 +2853,10 @@
             "archived": false,
             "id": 5171600,
             "language": "Python",
-            "last_commit": "2026-08-20T06:55:54Z",
+            "last_commit": "2026-08-20T18:45:55Z",
             "owner": "python-pillow",
             "repo": "Pillow",
-            "stars": 13764
+            "stars": 13769
           }
         },
         {
@@ -2871,7 +2871,7 @@
             "last_commit": "2026-08-09T23:02:03Z",
             "owner": "miguelgrinberg",
             "repo": "python-socketio",
-            "stars": 4367
+            "stars": 4368
           }
         },
         {
@@ -2886,7 +2886,7 @@
             "last_commit": "2026-08-19T04:57:03Z",
             "owner": "coveragepy",
             "repo": "coveragepy",
-            "stars": 3408
+            "stars": 3407
           }
         },
         {
@@ -2913,10 +2913,10 @@
             "archived": false,
             "id": 137814779,
             "language": "Python",
-            "last_commit": "2026-08-20T07:11:20Z",
+            "last_commit": "2026-08-21T01:48:20Z",
             "owner": "getsentry",
             "repo": "sentry-python",
-            "stars": 2202
+            "stars": 2203
           }
         },
         {
@@ -2931,7 +2931,7 @@
             "last_commit": "2026-04-27T11:17:17Z",
             "owner": "un33k",
             "repo": "python-slugify",
-            "stars": 1622
+            "stars": 1624
           }
         }
       ],
@@ -2951,10 +2951,10 @@
                 "archived": false,
                 "id": 12115269,
                 "language": "Python",
-                "last_commit": "2026-08-19T07:18:45Z",
+                "last_commit": "2026-08-20T19:20:47Z",
                 "owner": "cookiecutter",
                 "repo": "cookiecutter-django",
-                "stars": 13593
+                "stars": 13596
               }
             },
             {
@@ -3059,7 +3059,7 @@
                 "last_commit": "2025-09-04T14:44:28Z",
                 "owner": "stribny",
                 "repo": "sidewinder",
-                "stars": 236
+                "stars": 235
               }
             },
             {
@@ -3108,10 +3108,10 @@
                 "archived": false,
                 "id": 235901813,
                 "language": "Python",
-                "last_commit": "2026-08-20T07:58:09Z",
+                "last_commit": "2026-08-21T07:59:46Z",
                 "owner": "PostHog",
                 "repo": "posthog",
-                "stars": 37798
+                "stars": 38096
               }
             },
             {
@@ -3123,10 +3123,10 @@
                 "archived": false,
                 "id": 43160685,
                 "language": "Python",
-                "last_commit": "2026-08-20T07:54:22Z",
+                "last_commit": "2026-08-21T05:45:36Z",
                 "owner": "zulip",
                 "repo": "zulip",
-                "stars": 25733
+                "stars": 25743
               }
             },
             {
@@ -3141,7 +3141,7 @@
                 "last_commit": "2026-08-18T21:08:57Z",
                 "owner": "sissbruecker",
                 "repo": "linkding",
-                "stars": 11080
+                "stars": 11084
               }
             },
             {
@@ -3153,10 +3153,10 @@
                 "archived": false,
                 "id": 38067078,
                 "language": "Python",
-                "last_commit": "2026-08-19T12:12:58Z",
+                "last_commit": "2026-08-21T07:51:10Z",
                 "owner": "healthchecks",
                 "repo": "healthchecks",
-                "stars": 10264
+                "stars": 10267
               }
             },
             {
@@ -3168,10 +3168,10 @@
                 "archived": false,
                 "id": 136163130,
                 "language": "Python",
-                "last_commit": "2026-08-20T03:22:44Z",
+                "last_commit": "2026-08-20T18:46:22Z",
                 "owner": "Flagsmith",
                 "repo": "flagsmith",
-                "stars": 6521
+                "stars": 6524
               }
             },
             {
@@ -3183,10 +3183,10 @@
                 "archived": false,
                 "id": 281073868,
                 "language": "Python",
-                "last_commit": "2026-08-20T07:31:26Z",
+                "last_commit": "2026-08-21T07:58:18Z",
                 "owner": "baserow",
                 "repo": "baserow",
-                "stars": 5637
+                "stars": 5645
               }
             },
             {
@@ -3213,10 +3213,10 @@
                 "archived": false,
                 "id": 556553471,
                 "language": "Python",
-                "last_commit": "2026-08-20T03:10:39Z",
+                "last_commit": "2026-08-21T05:19:19Z",
                 "owner": "Open-Source-Legal",
                 "repo": "OpenContracts",
-                "stars": 1442
+                "stars": 1443
               }
             },
             {
@@ -3273,10 +3273,10 @@
                 "archived": false,
                 "id": 818991119,
                 "language": "Python",
-                "last_commit": "2026-08-19T16:54:16Z",
+                "last_commit": "2026-08-21T06:03:39Z",
                 "owner": "DjangoCRM",
                 "repo": "django-crm",
-                "stars": 613
+                "stars": 615
               }
             },
             {
@@ -3349,7 +3349,7 @@
                 "last_commit": "2026-08-19T14:15:51Z",
                 "owner": "encode",
                 "repo": "django-rest-framework",
-                "stars": 30132
+                "stars": 30134
               }
             },
             {
@@ -3389,10 +3389,10 @@
                 "archived": false,
                 "id": 16479108,
                 "language": "Python",
-                "last_commit": "2026-08-20T00:59:34Z",
+                "last_commit": "2026-08-20T19:28:42Z",
                 "owner": "wagtail",
                 "repo": "wagtail",
-                "stars": 20443
+                "stars": 20446
               }
             },
             {
@@ -3407,7 +3407,7 @@
                 "last_commit": "2026-06-16T14:16:16Z",
                 "owner": "wagtail",
                 "repo": "awesome-wagtail",
-                "stars": 2186
+                "stars": 2187
               }
             }
           ],
@@ -3420,7 +3420,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T08:01:12.934Z",
+    "last_updated": "2026-08-21T08:01:34.437Z",
     "original_repository": "wsvincent/awesome-django",
     "original_repository_id": 129094260,
     "original_repository_sha": "5b2edc938c0038357ad8d7630860eb041616e2b0",
