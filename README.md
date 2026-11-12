@@ -99,48 +99,48 @@ or buying <a rel="sponsored" href="https://django.threadless.com/">official merc
 
 ### Admin
 
-* [django-import-export](https://github.com/django-import-export/django-import-export) ⭐ 3,332 | 🐛 12 | 🌐 Python | 📅 2026-11-09 - Django application and library for importing and exporting data with admin integration.
+* [django-import-export](https://github.com/django-import-export/django-import-export) ⭐ 3,333 | 🐛 14 | 🌐 Python | 📅 2026-11-09 - Django application and library for importing and exporting data with admin integration.
 * [django-hijack](https://github.com/django-hijack/django-hijack) ⭐ 1,745 | 🐛 5 | 🌐 Python | 📅 2026-11-10 - Admins can log in and work on behalf of other users without having to know their credentials.
 * [django-admin-sortable2](https://github.com/jrief/django-admin-sortable2) ⭐ 886 | 🐛 49 | 🌐 Python | 📅 2026-11-08 - Generic drag-and-drop ordering for objects in the Django admin interface.
-* [dj-control-room](https://github.com/django-control-room/dj-control-room) ⭐ 590 | 🐛 5 | 🌐 Python | 📅 2026-10-30 - Build a control plane with a suite of operational tools inside the Django admin (Redis, cache, Celery, URLs, and more).
+* [dj-control-room](https://github.com/django-control-room/dj-control-room) ⭐ 590 | 🐛 2 | 🌐 Python | 📅 2026-10-30 - Build a control plane with a suite of operational tools inside the Django admin (Redis, cache, Celery, URLs, and more).
 * [django-loginas](https://github.com/skorokithakis/django-loginas) ⭐ 373 | 🐛 7 | 🌐 Python | 📅 2026-01-06 - "Log in as user" for the Django admin.
-* [django-admin-env-notice](https://github.com/dizballanze/django-admin-env-notice) ⭐ 344 | 🐛 4 | 🌐 Python | 📅 2026-01-22 - Visually distinguish environments in Django Admin, for example: `development`, `staging`, `production`.
+* [django-admin-env-notice](https://github.com/dizballanze/django-admin-env-notice) ⭐ 345 | 🐛 4 | 🌐 Python | 📅 2026-01-22 - Visually distinguish environments in Django Admin, for example: `development`, `staging`, `production`.
 * [impostor](https://github.com/avallbona/Impostor) ⭐ 161 | 🐛 5 | 🌐 Python | 📅 2026-11-02 - Impostor is a Django application which allows staff members to log in as a different user by using their own username and password.
 * [django-admin-collaborator](https://github.com/brktrlw/django-admin-collaborator) ⭐ 104 | 🐛 0 | 🌐 JavaScript | 📅 2026-05-12 - Add real-time user presence, edit locks, and chat to Django admin with Channels and Redis.
 * [django-admin-inline-paginator-plus](https://github.com/DmytroLitvinov/django-admin-inline-paginator-plus) ⭐ 70 | 🐛 3 | 🌐 Python | 📅 2026-05-16 - A simple way to paginate your inline in Django admin
 * [django-related-admin](https://github.com/PetrDlouhy/django-related-admin) ⭐ 70 | 🐛 3 | 🌐 Python | 📅 2025-05-16 - A helper library that allows you to write list\_displays across foreign key relationships.
-* [django-admin-mcp](https://github.com/7tg/django-admin-mcp) ⭐ 32 | 🐛 3 | 🌐 Python | 📅 2026-11-11 - Expose admin-registered models to MCP clients (AI assistants like Claude): CRUD, admin actions, and history through your ModelAdmin classes, capped by Django permissions.
+* [django-admin-mcp](https://github.com/7tg/django-admin-mcp) ⭐ 32 | 🐛 3 | 🌐 Python | 📅 2026-11-12 - Expose admin-registered models to MCP clients (AI assistants like Claude): CRUD, admin actions, and history through your ModelAdmin classes, capped by Django permissions.
 * [django-impersonate](https://pypi.org/project/django-impersonate/) - Allow superusers to “impersonate” other non-superuser accounts.
 
 ### Admin Themes
 
 * [django-grappelli](https://github.com/sehmaschine/django-grappelli) ⭐ 3,946 | 🐛 3 | 🌐 HTML | 📅 2026-10-28 - A jazzy skin for the admin.
-* [django-unfold](https://github.com/unfoldadmin/django-unfold) ⭐ 3,759 | 🐛 15 | 🌐 Python | 📅 2026-11-06 - Modern Django admin theme for seamless interface development.
+* [django-unfold](https://github.com/unfoldadmin/django-unfold) ⭐ 3,760 | 🐛 15 | 🌐 Python | 📅 2026-11-12 - Modern Django admin theme for seamless interface development.
 * [django-admin-interface](https://github.com/fabiocaccamo/django-admin-interface) ⭐ 2,049 | 🐛 21 | 🌐 Python | 📅 2026-11-01 - Customize Admin by the admin itself(color, header. title,logo) and  popup windows replaced by modals.
 * [django-jazzmin](https://github.com/farridav/django-jazzmin) ⭐ 1,884 | 🐛 177 | 🌐 HTML | 📅 2026-06-25 - Drop-in theme for django admin, that utilises AdminLTE 3 & Bootstrap 4 to make yo' admin look jazzy.
 * [django-baton](https://github.com/otto-torino/django-baton) ⭐ 997 | 🐛 1 | 🌐 Python | 📅 2026-11-06 - A cool, modern and responsive django admin application based on bootstrap 5.
 * [django-jet-reboot](https://github.com/assem-ch/django-jet-reboot) ⭐ 497 | 🐛 40 | 🌐 CSS | 📅 2026-02-01 - Django Jet is modern template for Django admin interface with improved functionality.
 * [django-daisy](https://github.com/hypy13/django-daisy) ⭐ 364 | 🐛 14 | 🌐 CSS | 📅 2026-10-17 - A modern django dashboard fully responsive built with daisyui.
 * [django-semantic-admin](https://github.com/globophobe/django-semantic-admin) ⭐ 182 | 🐛 4 | 🌐 Python | 📅 2026-11-01 - Django Semantic UI admin theme.
-* [django-smartbase-admin](https://github.com/SmartBase-SK/django-smartbase-admin) ⭐ 131 | 🐛 0 | 🌐 Python | 📅 2026-11-11 - Django SmartBase Admin 🚀 performance-tuned 👥 end-user ready beautiful admin panel
+* [django-smartbase-admin](https://github.com/SmartBase-SK/django-smartbase-admin) ⭐ 131 | 🐛 0 | 🌐 Python | 📅 2026-11-12 - Django SmartBase Admin 🚀 performance-tuned 👥 end-user ready beautiful admin panel
 
 ### APIs
 
 <!--lint disable double-link-->
 
-* [django-rest-framework](https://github.com/encode/django-rest-framework) ⭐ 30,231 | 🐛 64 | 🌐 Python | 📅 2026-11-11 - Web APIs for Django.
-* [django-cors-headers](https://github.com/adamchainz/django-cors-headers) ⭐ 5,584 | 🐛 10 | 🌐 Python | 📅 2026-11-04 - If your back-end and front-end are on different servers, you need this.
+* [django-rest-framework](https://github.com/encode/django-rest-framework) ⭐ 30,232 | 🐛 64 | 🌐 Python | 📅 2026-11-12 - Web APIs for Django.
+* [django-cors-headers](https://github.com/adamchainz/django-cors-headers) ⭐ 5,583 | 🐛 10 | 🌐 Python | 📅 2026-11-04 - If your back-end and front-end are on different servers, you need this.
 * [graphene-django](https://github.com/graphql-python/graphene-django) ⭐ 4,394 | 🐛 166 | 🌐 Python | 📅 2026-06-24 - GraphQL for Django.
 * [django-rest-framework-simplejwt](https://github.com/jazzband/djangorestframework-simplejwt) ⭐ 4,336 | 🐛 156 | 🌐 Python | 📅 2026-11-11 - JSON web tokens for DRF.
 * [django-tastypie](https://github.com/django-tastypie/django-tastypie) ⭐ 3,944 | 🐛 414 | 🌐 Python | 📅 2026-07-27 - Creating delicious APIs for Django apps since 2010.
-* [drf-yasg](https://github.com/axnsan12/drf-yasg) ⭐ 3,547 | 🐛 218 | 🌐 Python | 📅 2026-10-09 - Automated generation of real Swagger/OpenAPI 2.0 schemas from Django REST Framework code.
+* [drf-yasg](https://github.com/axnsan12/drf-yasg) ⭐ 3,546 | 🐛 218 | 🌐 Python | 📅 2026-10-09 - Automated generation of real Swagger/OpenAPI 2.0 schemas from Django REST Framework code.
 * [drf-spectacular](https://github.com/tfranzel/drf-spectacular) ⭐ 2,871 | 🐛 228 | 🌐 Python | 📅 2026-10-23 - Sane and flexible OpenAPI 3 schema generation for Django REST framework.
 * [djoser](https://github.com/sunscrapers/djoser) ⭐ 2,679 | 🐛 203 | 🌐 Python | 📅 2026-10-12 - REST implementation of Django auth.
 * [django-webpack-loader](https://github.com/django-webpack/django-webpack-loader) ⭐ 2,534 | 🐛 8 | 🌐 Python | 📅 2026-05-13 - Transparently use webpack with Django.
 * [dj-rest-auth](https://github.com/iMerica/dj-rest-auth) ⭐ 1,879 | 🐛 259 | 🌐 Python | 📅 2026-11-08 - Authentication for Django Rest Framework.
-* [django-modern-rest](https://github.com/wemake-services/django-modern-rest) ⭐ 1,547 | 🐛 34 | 🌐 Python | 📅 2026-11-11 - Modern REST with speed, types, async, `msgspec`, `pydantic` and other goodies!
+* [django-modern-rest](https://github.com/wemake-services/django-modern-rest) ⭐ 1,551 | 🐛 34 | 🌐 Python | 📅 2026-11-12 - Modern REST with speed, types, async, `msgspec`, `pydantic` and other goodies!
 * [django-rest-knox](https://github.com/django-commons/django-rest-knox) ⭐ 1,268 | 🐛 41 | 🌐 Python | 📅 2026-11-11 - Authentication Module for django-rest-auth.
-* [strawberry-django](https://github.com/strawberry-graphql/strawberry-django) ⭐ 504 | 🐛 93 | 🌐 Python | 📅 2026-11-09 - Django integration with Strawberry, a GraphQL library designed for modern development
+* [strawberry-django](https://github.com/strawberry-graphql/strawberry-django) ⭐ 504 | 🐛 97 | 🌐 Python | 📅 2026-11-09 - Django integration with Strawberry, a GraphQL library designed for modern development
 * [django-webhook](https://github.com/danihodovic/django-webhook) ⭐ 226 | 🐛 9 | 🌐 Python | 📅 2024-08-19 - A plug-and-play Django app for sending outgoing webhooks on model changes.
 * [djaq](https://github.com/paul-wolf/djaq) ⭐ 82 | 🐛 0 | 🌐 Python | 📅 2026-06-23 - An instant remote API to Django models with a powerful query language.
 * [graphene-django-filter](https://github.com/devind-team/graphene-django-filter) ⭐ 20 | 🐛 25 | 🌐 Python | 📅 2025-04-06 - Advanced filters implementing and/or/not operators in GraphQL for Django.
@@ -150,7 +150,7 @@ or buying <a rel="sponsored" href="https://django.threadless.com/">official merc
 
 ### Async
 
-* [channels](https://github.com/django/channels/) ⭐ 6,364 | 🐛 129 | 🌐 Python | 📅 2026-08-06 - Async support for Django.
+* [channels](https://github.com/django/channels/) ⭐ 6,365 | 🐛 130 | 🌐 Python | 📅 2026-08-06 - Async support for Django.
 
 ### Caching
 
@@ -159,11 +159,11 @@ or buying <a rel="sponsored" href="https://django.threadless.com/">official merc
 
 ### Commands
 
-* [django-extensions](https://github.com/django-extensions/django-extensions/) ⭐ 6,805 | 🐛 229 | 🌐 Python | 📅 2026-08-31 - Custom management extensions, notably `runserver_plus` and `shell_plus`.
+* [django-extensions](https://github.com/django-extensions/django-extensions/) ⭐ 6,805 | 🐛 230 | 🌐 Python | 📅 2026-08-31 - Custom management extensions, notably `runserver_plus` and `shell_plus`.
 * [django-dbbackup](https://github.com/Archmonger/django-dbbackup) ⭐ 1,113 | 🐛 11 | 🌐 Python | 📅 2026-10-24 - Management commands to help backup and restore your project database and media files.
 * [django-click](https://github.com/django-commons/django-click) ⭐ 301 | 🐛 11 | 🌐 Python | 📅 2026-09-04 - Write Django management commands using the [click CLI library](https://click.palletsprojects.com).
 * [django-typer](https://github.com/django-commons/django-typer) ⭐ 277 | 🐛 8 | 🌐 Python | 📅 2026-11-01 - Write Django management commands using the [Typer CLI library](https://typer.tiangolo.com).
-* [django-migration-zero](https://github.com/ambient-innovation/django-migration-zero/) ⭐ 86 | 🐛 0 | 🌐 Python | 📅 2026-10-21 - Holistic implementation of "migration zero" pattern for Django covering local changes and in-production database adjustments.
+* [django-migration-zero](https://github.com/ambient-innovation/django-migration-zero/) ⭐ 86 | 🐛 0 | 🌐 Python | 📅 2026-11-12 - Holistic implementation of "migration zero" pattern for Django covering local changes and in-production database adjustments.
 * [django-liquidb](https://github.com/Gusakovskiy/django-liquidb) ⭐ 28 | 🐛 0 | 🌐 Python | 📅 2023-10-28 - Django application to simplify migration management and changes in states of db scheme.
 
 ### Configuration
@@ -177,7 +177,7 @@ or buying <a rel="sponsored" href="https://django.threadless.com/">official merc
 * [django-configurations](https://github.com/jazzband/django-configurations) ⭐ 1,137 | 🐛 66 | 🌐 Python | 📅 2026-11-11 - eases Django project configuration by relying on the composability of Python classes and following principles of [the twelve-factor app](https://12factor.net/config).
 * [django-extra-settings](https://github.com/fabiocaccamo/django-extra-settings) ⭐ 623 | 🐛 13 | 🌐 Python | 📅 2026-11-01 - Config and manage typed extra settings using just the django admin.
 * [confidential](https://github.com/candidco/confidential) ⭐ 79 | 🐛 2 | 🌐 Python | 📅 2024-11-11 - Manage configs and secrets (with CLI support).
-* [django-removals](https://github.com/ambient-innovation/django-removals/) ⭐ 74 | 🐛 0 | 🌐 Python | 📅 2026-10-21 - Detect deprecated settings variables via convenient system checks
+* [django-removals](https://github.com/ambient-innovation/django-removals/) ⭐ 74 | 🐛 0 | 🌐 Python | 📅 2026-11-12 - Detect deprecated settings variables via convenient system checks
 * [dynaconf](https://www.dynaconf.com/django/) - Dynaconf loads django settings from multiple sources (multiple file formats, env vars, redis, vault, etcd), manages secrets, and allows for different merging strategies all following [the twelve-factor app](https://12factor.net/config).
 
 <!--lint enable double-link-->
@@ -189,10 +189,10 @@ or buying <a rel="sponsored" href="https://django.threadless.com/">official merc
 
 <!--lint disable double-link-->
 
-* [wagtail](https://github.com/wagtail/wagtail) ⭐ 20,672 | 🐛 1,010 | 🌐 Python | 📅 2026-11-10 - Popular Django content management system (CMS). See [awesome-wagtail](https://github.com/wagtail/awesome-wagtail) ⭐ 2,192 | 🐛 2 | 🌐 Python | 📅 2026-06-16 too.
-* [django-cms](https://github.com/django-cms/django-cms) ⭐ 10,681 | 🐛 9 | 🌐 Python | 📅 2026-11-11 - CMS for Django.
+* [wagtail](https://github.com/wagtail/wagtail) ⭐ 20,728 | 🐛 1,008 | 🌐 Python | 📅 2026-11-10 - Popular Django content management system (CMS). See [awesome-wagtail](https://github.com/wagtail/awesome-wagtail) ⭐ 2,192 | 🐛 2 | 🌐 Python | 📅 2026-06-16 too.
+* [django-cms](https://github.com/django-cms/django-cms) ⭐ 10,681 | 🐛 8 | 🌐 Python | 📅 2026-11-11 - CMS for Django.
 * [mezzanine](https://github.com/stephenmcd/mezzanine) ⭐ 4,812 | 🐛 65 | 🌐 Python | 📅 2026-04-19 - CMS framework.
-* [feincms](https://github.com/feincms/feincms) ⭐ 1,146 | 🐛 0 | 🌐 Python | 📅 2026-11-09 - An extensible Django-based CMS.
+* [feincms](https://github.com/feincms/feincms) ⭐ 1,148 | 🐛 0 | 🌐 Python | 📅 2026-11-09 - An extensible Django-based CMS.
 * [puput](https://github.com/APSL/puput) ⭐ 660 | 🐛 15 | 🌐 Python | 📅 2026-04-13 - Blog app features with Wagtail.
 
 <!--lint enable double-link-->
@@ -207,8 +207,8 @@ or buying <a rel="sponsored" href="https://django.threadless.com/">official merc
 
 ### ECommerce
 
-* [saleor](https://github.com/saleor/saleor) ⭐ 23,546 | 🐛 307 | 🌐 Python | 📅 2026-11-10 - GraphQL-based Django E-Commerce Platform.
-* [django-oscar](https://github.com/django-oscar/django-oscar) ⭐ 6,633 | 🐛 160 | 🌐 Python | 📅 2026-10-28 - Domain-driven e-commerce for Django.
+* [saleor](https://github.com/saleor/saleor) ⭐ 23,557 | 🐛 304 | 🌐 Python | 📅 2026-11-12 - GraphQL-based Django E-Commerce Platform.
+* [django-oscar](https://github.com/django-oscar/django-oscar) ⭐ 6,634 | 🐛 160 | 🌐 Python | 📅 2026-10-28 - Domain-driven e-commerce for Django.
 
 ### Editors
 
@@ -247,7 +247,7 @@ or buying <a rel="sponsored" href="https://django.threadless.com/">official merc
 
 ### General
 
-* [Weblate](https://github.com/WeblateOrg/weblate) ⭐ 6,167 | 🐛 440 | 🌐 Python | 📅 2026-11-11 - Weblate is a copylefted libre software web-based continuous localization system, used by over 2500 libre projects and companies in more than 165 countries.
+* [Weblate](https://github.com/WeblateOrg/weblate) ⭐ 6,167 | 🐛 448 | 🌐 Python | 📅 2026-11-12 - Weblate is a copylefted libre software web-based continuous localization system, used by over 2500 libre projects and companies in more than 165 countries.
 * [django-filter](https://github.com/carltongibson/django-filter) ⭐ 4,686 | 🐛 95 | 🌐 Python | 📅 2026-10-03 - Powerful filters based on Django QuerySets.
 * [django-sql-explorer](https://github.com/explorerhq/sql-explorer) ⭐ 2,876 | 🐛 51 | 🌐 Python | 📅 2026-11-01 - Share data via SQL queries.
 * [django-tables2](https://github.com/jieter/django-tables2) ⭐ 2,011 | 🐛 107 | 🌐 Python | 📅 2026-10-27 - HTML tables with pagination/sorting.
@@ -280,7 +280,7 @@ or buying <a rel="sponsored" href="https://django.threadless.com/">official merc
 ### Mailing
 
 * [django-anymail](https://github.com/anymail/django-anymail) ⭐ 1,918 | 🐛 16 | 🌐 Python | 📅 2026-10-19 - Django email backends and webhooks for Amazon SES, Brevo (Sendinblue), MailerSend, Mailgun, Mailjet, Postmark, Postal, Resend, SendGrid, SparkPost, Unisender Go and more.
-* [django-pony-express](https://github.com/ambient-innovation/django-pony-express) ⭐ 85 | 🐛 9 | 🌐 Python | 📅 2026-10-22 - Class-based emails including a test suite for Django.
+* [django-pony-express](https://github.com/ambient-innovation/django-pony-express) ⭐ 85 | 🐛 9 | 🌐 Python | 📅 2026-11-12 - Class-based emails including a test suite for Django.
 
 ### Model Fields
 
@@ -292,7 +292,7 @@ or buying <a rel="sponsored" href="https://django.threadless.com/">official merc
 ### Models
 
 * [django-taggit](https://github.com/jazzband/django-taggit/) ⭐ 3,443 | 🐛 117 | 🌐 Python | 📅 2026-11-11 - Simple model tags.
-* [django-reversion](https://github.com/etianen/django-reversion) ⭐ 3,169 | 🐛 23 | 🌐 Python | 📅 2026-11-10 - Version control for model instances.
+* [django-reversion](https://github.com/etianen/django-reversion) ⭐ 3,169 | 🐛 22 | 🌐 Python | 📅 2026-11-12 - Version control for model instances.
 * [django-mptt](https://github.com/django-mptt/django-mptt) ⭐ 2,965 | 🐛 0 | 🌐 Python | 📅 2026-11-03 - Modified Preorder Tree Traversal; working with trees of Model instances.
 * [django-simple-history](https://github.com/django-commons/django-simple-history) ⭐ 2,465 | 🐛 213 | 🌐 Python | 📅 2026-11-01 - Store model history and view/revert changes from the admin.
 * [django-polymorphic](https://github.com/django-commons/django-polymorphic) ⭐ 1,836 | 🐛 30 | 🌐 Python | 📅 2026-11-03 - Django-polymorphic simplifies using inherited models in Django projects.
@@ -303,9 +303,9 @@ or buying <a rel="sponsored" href="https://django.threadless.com/">official merc
 
 ### Performance
 
-* [py-spy](https://github.com/benfred/py-spy) ⭐ 15,639 | 🐛 240 | 🌐 Rust | 📅 2026-11-10 - Sampling profiler for Python programs.
-* [pyinstrument](https://github.com/joerick/pyinstrument) ⭐ 8,032 | 🐛 32 | 🌐 Python | 📅 2026-11-01 - Call stack profiler for Python, Django, Flask, FastAPI.
-* [django-silk](https://github.com/jazzband/django-silk) ⭐ 5,005 | 🐛 130 | 🌐 Python | 📅 2026-11-11 - Live profiling and inspection of HTTP requests and database queries.
+* [py-spy](https://github.com/benfred/py-spy) ⭐ 15,643 | 🐛 240 | 🌐 Rust | 📅 2026-11-10 - Sampling profiler for Python programs.
+* [pyinstrument](https://github.com/joerick/pyinstrument) ⭐ 8,031 | 🐛 32 | 🌐 Python | 📅 2026-11-01 - Call stack profiler for Python, Django, Flask, FastAPI.
+* [django-silk](https://github.com/jazzband/django-silk) ⭐ 5,005 | 🐛 131 | 🌐 Python | 📅 2026-11-11 - Live profiling and inspection of HTTP requests and database queries.
 * [django-zeal](https://github.com/taobojlen/django-zeal) ⭐ 209 | 🐛 2 | 🌐 Python | 📅 2026-10-14 - Detect N+1 queries with user-friendly error messages
 * [django-perf-rec](https://cur.at/GHUO6cn?m=web) - Keep detailed records of the performance of your Django code.
 * [New Relic](https://newrelic.com/python/django) - Time middleware, views, and SQL queries.
@@ -336,14 +336,14 @@ or buying <a rel="sponsored" href="https://django.threadless.com/">official merc
 ### Static Assets
 
 * [django-storages](https://github.com/jschneier/django-storages) ⭐ 2,959 | 🐛 196 | 🌐 Python | 📅 2026-08-02 - A single library to support multiple custom storage backends for Django.
-* [django-compressor](https://github.com/django-compressor/django-compressor/) ⭐ 2,870 | 🐛 122 | 🌐 Python | 📅 2026-11-10 - Compress JavaScript/CSS into a single cached file.
-* [whitenoise](https://github.com/evansd/whitenoise) ⭐ 2,769 | 🐛 41 | 🌐 Python | 📅 2026-11-10 - Simplified static file serving for Python websites.
+* [django-compressor](https://github.com/django-compressor/django-compressor/) ⭐ 2,869 | 🐛 121 | 🌐 Python | 📅 2026-11-12 - Compress JavaScript/CSS into a single cached file.
+* [whitenoise](https://github.com/evansd/whitenoise) ⭐ 2,769 | 🐛 41 | 🌐 Python | 📅 2026-11-11 - Simplified static file serving for Python websites.
 * [easy-thumbnails](https://github.com/SmileyChris/easy-thumbnails) ⭐ 1,408 | 🐛 105 | 🌐 Python | 📅 2026-05-06 - Image thumbnails for Django.
 
 ### Task Queues
 
-* [celery](https://github.com/celery/celery) ⭐ 29,172 | 🐛 775 | 🌐 Python | 📅 2026-11-11 - Robust and broker-agnostic task queues for bigger, performance-focused projects.
-* [flower](https://github.com/mher/flower) ⭐ 7,242 | 🐛 40 | 🌐 Python | 📅 2026-11-01 - Flower is a web-based tool for monitoring and administrating Celery clusters.
+* [celery](https://github.com/celery/celery) ⭐ 29,176 | 🐛 795 | 🌐 Python | 📅 2026-11-11 - Robust and broker-agnostic task queues for bigger, performance-focused projects.
+* [flower](https://github.com/mher/flower) ⭐ 7,242 | 🐛 41 | 🌐 Python | 📅 2026-11-01 - Flower is a web-based tool for monitoring and administrating Celery clusters.
 * [huey](https://github.com/coleifer/huey) ⭐ 6,064 | 🐛 2 | 🌐 Python | 📅 2026-11-05 - A little task queue for Python, with Django support including the new `django.tasks` API.
 * [django-redis](https://github.com/jazzband/django-redis) ⭐ 3,088 | 🐛 86 | 🌐 Python | 📅 2026-11-11 - Full-featured Redis cache backend for Django.
 * [django-celery-beat](https://github.com/celery/django-celery-beat) ⭐ 1,958 | 🐛 156 | 🌐 Python | 📅 2026-11-11 - A periodic task scheduler with database configured by Django's Admin Panel.
@@ -354,12 +354,12 @@ or buying <a rel="sponsored" href="https://django.threadless.com/">official merc
 * [celery-exporter](https://github.com/danihodovic/celery-exporter) ⭐ 567 | 🐛 51 | 🌐 Python | 📅 2026-10-09 - Prometheus & Grafana monitoring of Celery tasks.
 * [django-dramatiq](https://github.com/Bogdanp/django_dramatiq) ⭐ 385 | 🐛 19 | 🌐 Python | 📅 2026-05-10 - Task processing library with a focus on simplicity, reliability, and performance.
 * [django-crontask](https://github.com/codingjoe/django-crontask) ⭐ 126 | 🐛 0 | 🌐 Python | 📅 2026-11-10 - Cron style scheduler for asynchronous tasks in Django.
-* [django-ox](https://github.com/oxpull/django-ox) ⭐ 101 | 🐛 4 | 🌐 Python | 📅 2026-11-09 - Database-backed worker for Django's Tasks framework, with transactional enqueue, retries, recurring tasks, and no broker to run.
-* [django-absurd](https://github.com/lincolnloop/django-absurd) ⭐ 54 | 🐛 13 | 🌐 Python | 📅 2026-11-05 - Django integration for Absurd, a Postgres-native durable workflow system.
+* [django-ox](https://github.com/oxpull/django-ox) ⭐ 101 | 🐛 3 | 🌐 Python | 📅 2026-11-11 - Database-backed worker for Django's Tasks framework, with transactional enqueue, retries, recurring tasks, and no broker to run.
+* [django-absurd](https://github.com/lincolnloop/django-absurd) ⭐ 54 | 🐛 14 | 🌐 Python | 📅 2026-11-12 - Django integration for Absurd, a Postgres-native durable workflow system.
 
 ### Templates
 
-* [django-components](https://github.com/django-components/django-components/) ⭐ 1,519 | 🐛 41 | 🌐 Python | 📅 2026-11-09 - A way to create simple reusable template components in Django.
+* [django-components](https://github.com/django-components/django-components/) ⭐ 1,519 | 🐛 42 | 🌐 Python | 📅 2026-11-09 - A way to create simple reusable template components in Django.
 * [django-template-partials](https://github.com/carltongibson/django-template-partials/) ⭐ 658 | 🐛 1 | 🌐 Python | 📅 2025-11-20 - Reusable named inline partials for the Django Template Language.
 * [django-suspense](https://github.com/paqstd-dev/django-suspense) ⭐ 17 | 🐛 0 | 🌐 Python | 📅 2026-10-25 - Easy way to display a fallback in templates until children have finished loading (like React).
 * [slippers](https://mitchel.me/slippers/) - Build reusable components in Django without writing a single line of Python.
@@ -370,8 +370,8 @@ or buying <a rel="sponsored" href="https://django.threadless.com/">official merc
 ### Testing
 
 * [django-debug-toolbar](https://github.com/django-commons/django-debug-toolbar/) ⭐ 8,380 | 🐛 70 | 🌐 Python | 📅 2026-11-10 - Configurable panels to debug requests/responses.
-* [factory-boy](https://github.com/FactoryBoy/factory_boy) ⭐ 3,811 | 🐛 212 | 🌐 Python | 📅 2026-01-01 - Test fixtures replacement.
-* [pytest-django](https://github.com/pytest-dev/pytest-django) ⭐ 1,548 | 🐛 194 | 🌐 Python | 📅 2026-11-01 - Use pytest features in Django.
+* [factory-boy](https://github.com/FactoryBoy/factory_boy) ⭐ 3,811 | 🐛 211 | 🌐 Python | 📅 2026-01-01 - Test fixtures replacement.
+* [pytest-django](https://github.com/pytest-dev/pytest-django) ⭐ 1,549 | 🐛 194 | 🌐 Python | 📅 2026-11-01 - Use pytest features in Django.
 * [django-waffle](https://github.com/django-waffle/django-waffle) ⭐ 1,267 | 🐛 66 | 🌐 Python | 📅 2026-06-07 - A feature flipper for Django.
 * [model-bakery](https://github.com/model-bakers/model_bakery) ⭐ 1,008 | 🐛 9 | 🌐 Python | 📅 2026-11-08 - Object factory for Django (rename of legacy Model Mommy project).
 * [django-test-plus](https://github.com/revsys/django-test-plus/) ⭐ 630 | 🐛 4 | 🌐 Python | 📅 2026-10-13 - Useful additions to Django's default TestCase.
@@ -389,8 +389,8 @@ or buying <a rel="sponsored" href="https://django.threadless.com/">official merc
 
 ### Users
 
-* [django-allauth](https://github.com/pennersr/django-allauth/) ⭐ 10,382 | 🐛 2 | 🌐 Python | 📅 2026-10-30 - Improved user registration including social auth.
-* [django-organizations](https://github.com/bennylope/django-organizations/) ⭐ 1,362 | 🐛 20 | 🌐 Python | 📅 2026-11-01 - Multi-user accounts for Django projects.
+* [django-allauth](https://github.com/pennersr/django-allauth/) ⭐ 10,382 | 🐛 2 | 🌐 Python | 📅 2026-11-11 - Improved user registration including social auth.
+* [django-organizations](https://github.com/bennylope/django-organizations/) ⭐ 1,363 | 🐛 20 | 🌐 Python | 📅 2026-11-01 - Multi-user accounts for Django projects.
 * [django-allauth-ui](https://github.com/danihodovic/django-allauth-ui/) ⭐ 404 | 🐛 29 | 🌐 HTML | 📅 2026-02-14 - Better-looking templates for django-allauth.
 * [django-cas-ng](https://github.com/django-cas-ng/django-cas-ng) ⭐ 393 | 🐛 6 | 🌐 Python | 📅 2026-11-04 - Django-cas-ng is Django CAS (Central Authentication Service) 1.0/2.0/3.0 client library to support SSO (Single Sign On) and Single Logout (SLO).
 * [django-improved-user](https://github.com/jambonrose/django-improved-user) ⭐ 159 | 🐛 11 | 🌐 Python | 📅 2026-11-02 - A custom Django user that authenticates via email. Follows identity and authentication best practices.
@@ -399,7 +399,7 @@ or buying <a rel="sponsored" href="https://django.threadless.com/">official merc
 
 * [django-braces](https://github.com/brack3t/django-braces) ⭐ 2,014 | 🐛 10 | 🌐 Python | 📅 2025-03-18 - Reusable, generic mixins.
 * [django-extra-views](https://github.com/AndrewIngram/django-extra-views) ⭐ 1,437 | 🐛 15 | 🌐 Python | 📅 2026-10-14 - Extra class-based generic views.
-* [django-easy-audit](https://github.com/soynatan/django-easy-audit) ⭐ 845 | 🐛 112 | 🌐 Python | 📅 2026-08-11 - Keep track of user actions.
+* [django-easy-audit](https://github.com/soynatan/django-easy-audit) ⭐ 845 | 🐛 109 | 🌐 Python | 📅 2026-11-12 - Keep track of user actions.
 * [neapolitan](https://github.com/carltongibson/neapolitan) ⭐ 706 | 🐛 26 | 🌐 Python | 📅 2026-03-15 - Quick CRUD views for Django.
 * [django-stronghold](https://github.com/mgrouchy/django-stronghold) ⭐ 395 | 🐛 13 | 🌐 Python | 📅 2024-11-24 - Makes all your Django views default login\_required.
 
@@ -421,15 +421,15 @@ Standalone tools that help in developing Django projects.
 
 *A short list of Python packages that work well with Django.*
 
-* [Ruff](https://github.com/astral-sh/ruff) ⭐ 51,151 | 🐛 2,285 | 🌐 Rust | 📅 2026-11-11 - An extremely fast Python linter and code formatter, written in Rust.
-* [black](https://github.com/psf/black) ⭐ 42,158 | 🐛 272 | 🌐 Python | 📅 2026-11-09 - Uncompromising Python code formatter.
-* [faker](https://github.com/joke2k/faker) ⭐ 19,489 | 🐛 49 | 🌐 Python | 📅 2026-11-10 - Faker is a Python package that generates fake data for you.
-* [pytest](https://github.com/pytest-dev/pytest/) ⭐ 14,683 | 🐛 936 | 🌐 Python | 📅 2026-11-11 - Testing framework.
-* [pillow](https://github.com/python-pillow/Pillow) ⭐ 13,977 | 🐛 123 | 🌐 Python | 📅 2026-11-11 - Python Imaging Library.
+* [Ruff](https://github.com/astral-sh/ruff) ⭐ 51,215 | 🐛 2,296 | 🌐 Rust | 📅 2026-11-12 - An extremely fast Python linter and code formatter, written in Rust.
+* [black](https://github.com/psf/black) ⭐ 42,165 | 🐛 278 | 🌐 Python | 📅 2026-11-09 - Uncompromising Python code formatter.
+* [faker](https://github.com/joke2k/faker) ⭐ 19,489 | 🐛 51 | 🌐 Python | 📅 2026-11-10 - Faker is a Python package that generates fake data for you.
+* [pytest](https://github.com/pytest-dev/pytest/) ⭐ 14,694 | 🐛 941 | 🌐 Python | 📅 2026-11-11 - Testing framework.
+* [pillow](https://github.com/python-pillow/Pillow) ⭐ 13,978 | 🐛 123 | 🌐 Python | 📅 2026-11-12 - Python Imaging Library.
 * [python-socketio](https://github.com/miguelgrinberg/python-socketio) ⭐ 4,369 | 🐛 0 | 🌐 Python | 📅 2026-11-03 - Python implementation of the Socket.IO\_ realtime client and server. [(create Socket.io Django server instance)](https://python-socketio.readthedocs.io/en/latest/server.html?highlight=django#creating-a-server-instance)
-* [coveragepy](https://github.com/coveragepy/coveragepy) ⭐ 3,429 | 🐛 331 | 🌐 Python | 📅 2026-11-11 - Code coverage measurement.
+* [coveragepy](https://github.com/coveragepy/coveragepy) ⭐ 3,429 | 🐛 328 | 🌐 Python | 📅 2026-11-12 - Code coverage measurement.
 * [python-decouple](https://github.com/HBNetwork/python-decouple) ⭐ 3,036 | 🐛 26 | 🌐 Python | 📅 2024-11-28 - Strict separation of settings from code.
-* [sentry-python](https://github.com/getsentry/sentry-python) ⭐ 2,220 | 🐛 388 | 🌐 Python | 📅 2026-11-11 - Error reporting SDK.
+* [sentry-python](https://github.com/getsentry/sentry-python) ⭐ 2,220 | 🐛 368 | 🌐 Python | 📅 2026-11-12 - Error reporting SDK.
 * [python-slugify](https://github.com/un33k/python-slugify) ⭐ 1,630 | 🐛 0 | 🌐 Python | 📅 2026-10-16 - Returns unicode slugs.
 
 ## Resources
@@ -438,7 +438,7 @@ Standalone tools that help in developing Django projects.
 
 <!--lint ignore double-link-->
 
-* [Source Code](https://github.com/django/django/) ⭐ 91,688 | 🐛 534 | 🌐 Python | 📅 2026-11-11 - Hosted on GitHub.
+* [Source Code](https://github.com/django/django/) ⭐ 91,719 | 🐛 531 | 🌐 Python | 📅 2026-11-12 - Hosted on GitHub.
 * [Project Website](https://www.djangoproject.com/) - Official Django website.
 * [Documentation](https://docs.djangoproject.com/en/dev/) - Comprehensive documentation for all Django versions.
 * [Polls Tutorial](https://docs.djangoproject.com/en/dev/intro/tutorial01/) - Build a polls tutorial while learning Django internals.
@@ -449,7 +449,7 @@ Standalone tools that help in developing Django projects.
 
 ### Educational
 
-* [Django Styleguide](https://github.com/HackSoftware/Django-Styleguide) ⭐ 6,310 | 🐛 5 | 🌐 Python | 📅 2025-09-25 - Styleguide for Django with best practices and examples.
+* [Django Styleguide](https://github.com/HackSoftware/Django-Styleguide) ⭐ 6,313 | 🐛 5 | 🌐 Python | 📅 2025-09-25 - Styleguide for Django with best practices and examples.
 * [Django Girls Tutorial](https://tutorial.djangogirls.org/en/) - Use function-based views to build a blog app.
 * [LearnDjango](https://learndjango.com/) - Tutorials and premium courses on Django and Django REST Framework.
 * [Adam Johnson](https://adamj.eu/tech/) - Adam is on the Technical Board of Django and regularly writes tutorials.
@@ -586,11 +586,11 @@ For a complete listing of in-print books, check out [DjangoBook.com](https://dja
 
 ### Boilerplate
 
-* [cookiecutter-django](https://github.com/cookiecutter/cookiecutter-django/) ⭐ 13,636 | 🐛 105 | 🌐 Python | 📅 2026-11-11 - A full-bodied starter project, highly customizable.
+* [cookiecutter-django](https://github.com/cookiecutter/cookiecutter-django/) ⭐ 13,638 | 🐛 110 | 🌐 Python | 📅 2026-11-12 - A full-bodied starter project, highly customizable.
 * [djangox](https://github.com/wsvincent/lithium/) ⭐ 2,459 | 🐛 0 | 🌐 Python | 📅 2026-11-02 - Batteries included starter project for Pip, Pipenv, or Docker.
 * [wemake-django-template](https://github.com/wemake-services/wemake-django-template/) ⭐ 2,280 | 🐛 29 | 🌐 Python | 📅 2026-11-09 - Bleeding-edge Django template focused on code quality and security.
 * [django-react-boilerplate](https://github.com/vintasoftware/django-react-boilerplate) ⭐ 2,272 | 🐛 22 | 🌐 Python | 📅 2026-05-04 - A Django, React, Tailwind, Webpack project boilerplate
-* [django-base-site](https://github.com/epicserve/django-base-site/) ⭐ 453 | 🐛 3 | 🌐 Python | 📅 2026-11-07 - A Django site with many common third-party packages pre-installed.
+* [django-base-site](https://github.com/epicserve/django-base-site/) ⭐ 452 | 🐛 4 | 🌐 Python | 📅 2026-11-11 - A Django site with many common third-party packages pre-installed.
 * [Falco](https://github.com/falcopackages/falco-cli) ⭐ 391 | 🐛 7 | 🌐 Python | 📅 2026-06-15 - Enhance your Django developer experience: CLI and Guides for the Modern Django Developer.
 * [django-startproject](https://github.com/jefftriplett/django-startproject) ⭐ 282 | 🐛 3 | 🌐 Python | 📅 2026-11-01 - Django start project template with batteries.
 * [sidewinder](https://github.com/stribny/sidewinder/) ⭐ 234 | 🐛 5 | 🌐 Python | 📅 2025-09-04 - A Django starter kit that focuses on good defaults, developer experience, and deployment.
@@ -599,23 +599,23 @@ For a complete listing of in-print books, check out [DjangoBook.com](https://dja
 
 ### Open Source Projects
 
-* [PostHog](https://github.com/PostHog/posthog) ⭐ 40,740 | 🐛 4,556 | 🌐 Python | 📅 2026-11-11 - Open-source product analytics.
-* [Zulip](https://github.com/zulip/zulip/) ⭐ 26,207 | 🐛 2,076 | 🌐 Python | 📅 2026-11-11 - Open-source team chat.
-* [linkding](https://github.com/sissbruecker/linkding) ⭐ 11,414 | 🐛 259 | 🌐 Python | 📅 2026-10-26 - Self-hosted bookmark manager that is designed to be minimal, fast, and easy to set up using Docker.
-* [Healthchecks](https://github.com/healthchecks/healthchecks) ⭐ 10,518 | 🐛 56 | 🌐 Python | 📅 2026-11-10 - A Cron Monitoring Tool written in Python & Django.
-* [Flagsmith](https://github.com/Flagsmith/flagsmith) ⭐ 7,098 | 🐛 746 | 🌐 Python | 📅 2026-11-11 - Open-source Feature Flagging, Remote Config, and AB testing.
-* [Baserow](https://github.com/baserow/baserow) ⭐ 6,320 | 🐛 1,198 | 🌐 Python | 📅 2026-11-11 - Open source no-code database and Airtable alternative built with Django and Vue.js.
-* [pretix](https://github.com/pretix/pretix) ⭐ 2,566 | 🐛 169 | 🌐 Python | 📅 2026-11-11 - Ticket shop application for conferences, festivals, concerts, and other events.
-* [Bootcamp: An enterprise social network](https://github.com/vitorfs/bootcamp) ⭐ 2,300 | 🐛 25 | 🌐 CSS | 📅 2023-10-01
+* [PostHog](https://github.com/PostHog/posthog) ⭐ 40,758 | 🐛 4,552 | 🌐 Python | 📅 2026-11-12 - Open-source product analytics.
+* [Zulip](https://github.com/zulip/zulip/) ⭐ 26,218 | 🐛 2,078 | 🌐 Python | 📅 2026-11-12 - Open-source team chat.
+* [linkding](https://github.com/sissbruecker/linkding) ⭐ 11,416 | 🐛 260 | 🌐 Python | 📅 2026-10-26 - Self-hosted bookmark manager that is designed to be minimal, fast, and easy to set up using Docker.
+* [Healthchecks](https://github.com/healthchecks/healthchecks) ⭐ 10,517 | 🐛 55 | 🌐 Python | 📅 2026-11-10 - A Cron Monitoring Tool written in Python & Django.
+* [Flagsmith](https://github.com/Flagsmith/flagsmith) ⭐ 7,162 | 🐛 750 | 🌐 Python | 📅 2026-11-12 - Open-source Feature Flagging, Remote Config, and AB testing.
+* [Baserow](https://github.com/baserow/baserow) ⭐ 6,322 | 🐛 1,202 | 🌐 Python | 📅 2026-11-12 - Open source no-code database and Airtable alternative built with Django and Vue.js.
+* [pretix](https://github.com/pretix/pretix) ⭐ 2,568 | 🐛 172 | 🌐 Python | 📅 2026-11-12 - Ticket shop application for conferences, festivals, concerts, and other events.
+* [Bootcamp: An enterprise social network](https://github.com/vitorfs/bootcamp) ⭐ 2,301 | 🐛 25 | 🌐 CSS | 📅 2023-10-01
 * [ioe](https://github.com/zhtyyx/ioe) ⭐ 1,638 | 🐛 1 | 🌐 HTML | 📅 2026-10-08 - Self-hosted retail store management with inventory, sales checkout, and member accounts.
-* [OpenContracts](https://github.com/Open-Source-Legal/OpenContracts) ⭐ 1,539 | 🐛 33 | 🌐 Python | 📅 2026-11-10 - Enterprise-grade document analytics platform that combines automated PDF parsing, vector embeddings, and LLM integration.
+* [OpenContracts](https://github.com/Open-Source-Legal/OpenContracts) ⭐ 1,542 | 🐛 12 | 🌐 Python | 📅 2026-11-12 - Enterprise-grade document analytics platform that combines automated PDF parsing, vector embeddings, and LLM integration.
 * [Blog app with users and forms](https://github.com/wsvincent/djangoforbeginners/tree/master/ch7-blog-app-with-users/) ⭐ 1,384 | 🐛 3 | 🌐 Python | 📅 2026-10-13
 * [Newspaper app with custom user model, full user auth](https://github.com/wsvincent/djangoforbeginners/tree/master/ch15-comments) ⭐ 1,384 | 🐛 3 | 🌐 Python | 📅 2026-10-13
-* [pretalx](https://github.com/pretalx/pretalx) ⭐ 959 | 🐛 58 | 🌐 Python | 📅 2026-11-10 - Conference planning tool for the call for papers, scheduling, and speaker management.
+* [pretalx](https://github.com/pretalx/pretalx) ⭐ 959 | 🐛 58 | 🌐 Python | 📅 2026-11-12 - Conference planning tool for the call for papers, scheduling, and speaker management.
 * [Django CRM Admin](https://github.com/DjangoCRM/django-crm) ⭐ 649 | 🐛 6 | 🌐 Python | 📅 2026-11-11 - Open source Python CRM built entirely on Django Admin Site.
 * [django-job-portal](https://github.com/manjurulhoque/django-job-portal) ⭐ 624 | 🐛 4 | 🌐 Python | 📅 2026-11-06 - Job portal application using Django.
 * [venueless](https://github.com/venueless/venueless) ⭐ 226 | 🐛 88 | 🌐 Python | 📅 2026-11-09 - Platform for online and hybrid events with live streams, chat, and video rooms, from the pretix team.
-* [Revel](https://github.com/letsrevel/revel-backend) ⭐ 118 | 🐛 61 | 🌐 Python | 📅 2026-11-11 - Self-hostable event management and ticketing platform with organizations, questionnaire-based attendee screening, QR check-in, and Stripe payments.
+* [Revel](https://github.com/letsrevel/revel-backend) ⭐ 118 | 🐛 59 | 🌐 Python | 📅 2026-11-11 - Self-hostable event management and ticketing platform with organizations, questionnaire-based attendee screening, QR check-in, and Stripe payments.
 * [Image Sharing Blog](https://github.com/MeNsaaH/soMedia) ⭐ 105 | 🐛 6 | 🌐 Python | 📅 2024-08-04
 * [Behavior-Driven Development with Aloe](https://github.com/testdrivenio/django-aloe-bdd/) ⭐ 44 | 🐛 1 | 🌐 Python | 📅 2023-02-15
 * [Built with Django](https://builtwithdjango.com) - Curated list of awesome Django projects.
@@ -629,7 +629,7 @@ For a complete listing of in-print books, check out [DjangoBook.com](https://dja
 
 <!--lint disable double-link-->
 
-* [DRF Source Code](https://github.com/encode/django-rest-framework) ⭐ 30,231 | 🐛 64 | 🌐 Python | 📅 2026-11-11
+* [DRF Source Code](https://github.com/encode/django-rest-framework) ⭐ 30,232 | 🐛 64 | 🌐 Python | 📅 2026-11-12
 * [awesome-django-rest-framework](https://github.com/nioperas06/awesome-django-rest-framework) ⭐ 1,476 | 🐛 3 | 📅 2026-09-11
 * [Official Documentation](https://www.django-rest-framework.org/)
 
@@ -652,7 +652,7 @@ For a complete listing of in-print books, check out [DjangoBook.com](https://dja
 
 <!--lint disable double-link-->
 
-* [Wagtail Source Code](https://github.com/wagtail/wagtail/) ⭐ 20,672 | 🐛 1,010 | 🌐 Python | 📅 2026-11-10
+* [Wagtail Source Code](https://github.com/wagtail/wagtail/) ⭐ 20,728 | 🐛 1,008 | 🌐 Python | 📅 2026-11-10
 * [awesome-wagtail](https://github.com/wagtail/awesome-wagtail) ⭐ 2,192 | 🐛 2 | 🌐 Python | 📅 2026-06-16
 * [Official website](https://wagtail.org/)
 * [Developer documentation](https://docs.wagtail.org/en/stable/)
@@ -667,4 +667,4 @@ A convenient way to browse and search repositories from this list is available a
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-12._
